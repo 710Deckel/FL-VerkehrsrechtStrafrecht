@@ -480,6 +480,114 @@
       "gesetzestext": "Wer im Zustand der Bewusstlosigkeit oder in einem die freie Willensbestimmung ausschließenden Zustand krankhafter Störung der Geistestätigkeit einem anderen Schaden zufügt, ist für den Schaden nicht verantwortlich. Hat er sich durch geistige Getränke oder ähnliche Mittel in einen vorübergehenden Zustand dieser Art versetzt, so ist er für einen Schaden, den er in diesem Zustand widerrechtlich verursacht, in gleicher Weise verantwortlich, wie wenn ihm Fahrlässigkeit zur Last fiele; die Verantwortlichkeit tritt nicht ein, wenn er ohne Verschulden in den Zustand geraten ist.",
       "quelle": "https://www.gesetze-im-internet.de/bgb/__827.html",
       "praxisbeispiele": []
+    },
+    {
+      "id": "1767092775619",
+      "gesetz": "BGB",
+      "nummer": "§ 828",
+      "titel": "§ 828 Minderjährige",
+      "gesetzestext": "(1) Wer nicht das siebente Lebensjahr vollendet hat, ist für einen Schaden, den er einem anderen zufügt, nicht verantwortlich.\n(2) Wer das siebente, aber nicht das zehnte Lebensjahr vollendet hat, ist für den Schaden, den er bei einem Unfall mit einem Kraftfahrzeug, einer Schienenbahn oder einer Schwebebahn einem anderen zufügt, nicht verantwortlich. Dies gilt nicht, wenn er die Verletzung vorsätzlich herbeigeführt hat.\n(3) Wer das 18. Lebensjahr noch nicht vollendet hat, ist, sofern seine Verantwortlichkeit nicht nach Absatz 1 oder 2 ausgeschlossen ist, für den Schaden, den er einem anderen zufügt, nicht verantwortlich, wenn er bei der Begehung der schädigenden Handlung nicht die zur Erkenntnis der Verantwortlichkeit erforderliche Einsicht hat.",
+      "quelle": "https://www.gesetze-im-internet.de/bgb/__828.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767092799387",
+      "gesetz": "BGB",
+      "nummer": "§ 839",
+      "titel": "§ 839 Haftung bei Amtspflichtverletzung",
+      "gesetzestext": "(1) Verletzt ein Beamter vorsätzlich oder fahrlässig die ihm einem Dritten gegenüber obliegende Amtspflicht, so hat er dem Dritten den daraus entstehenden Schaden zu ersetzen. Fällt dem Beamten nur Fahrlässigkeit zur Last, so kann er nur dann in Anspruch genommen werden, wenn der Verletzte nicht auf andere Weise Ersatz zu erlangen vermag.\n(2) Verletzt ein Beamter bei dem Urteil in einer Rechtssache seine Amtspflicht, so ist er für den daraus entstehenden Schaden nur dann verantwortlich, wenn die Pflichtverletzung in einer Straftat besteht. Auf eine pflichtwidrige Verweigerung oder Verzögerung der Ausübung des Amts findet diese Vorschrift keine Anwendung.\n(3) Die Ersatzpflicht tritt nicht ein, wenn der Verletzte vorsätzlich oder fahrlässig unterlassen hat, den Schaden durch Gebrauch eines Rechtsmittels abzuwenden.",
+      "quelle": "https://www.gesetze-im-internet.de/bgb/__839.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767092820619",
+      "gesetz": "BGB",
+      "nummer": "§ 840",
+      "titel": "§ 840 Haftung mehrerer",
+      "gesetzestext": "(1) Sind für den aus einer unerlaubten Handlung entstehenden Schaden mehrere nebeneinander verantwortlich, so haften sie als Gesamtschuldner.\n(2) Ist neben demjenigen, welcher nach den §§ 831, 832 zum Ersatz des von einem anderen verursachten Schadens verpflichtet ist, auch der andere für den Schaden verantwortlich, so ist in ihrem Verhältnis zueinander der andere allein, im Falle des § 829 der Aufsichtspflichtige allein verpflichtet.\n(3) Ist neben demjenigen, welcher nach den §§ 833 bis 838 zum Ersatz des Schadens verpflichtet ist, ein Dritter für den Schaden verantwortlich, so ist in ihrem Verhältnis zueinander der Dritte allein verpflichtet.",
+      "quelle": "https://www.gesetze-im-internet.de/bgb/__840.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767092838751",
+      "gesetz": "BGB",
+      "nummer": "§ 841",
+      "titel": "§ 841 Ausgleichung bei Beamtenhaftung",
+      "gesetzestext": "Ist ein Beamter, der vermöge seiner Amtspflicht einen anderen zur Geschäftsführung für einen Dritten zu bestellen oder eine solche Geschäftsführung zu beaufsichtigen oder durch Genehmigung von Rechtsgeschäften bei ihr mitzuwirken hat, wegen Verletzung dieser Pflichten neben dem anderen für den von diesem verursachten Schaden verantwortlich, so ist in ihrem Verhältnis zueinander der andere allein verpflichtet.",
+      "quelle": "https://www.gesetze-im-internet.de/bgb/__841.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767092858270",
+      "gesetz": "BGB",
+      "nummer": "§ 842",
+      "titel": "§ 842 Umfang der Ersatzpflicht bei Verletzung einer Person",
+      "gesetzestext": "Die Verpflichtung zum Schadensersatz wegen einer gegen die Person gerichteten unerlaubten Handlung erstreckt sich auf die Nachteile, welche die Handlung für den Erwerb oder das Fortkommen des Verletzten herbeiführt.",
+      "quelle": "https://www.gesetze-im-internet.de/bgb/__842.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767092872997",
+      "gesetz": "BGB",
+      "nummer": "§ 843",
+      "titel": "§ 843 Geldrente oder Kapitalabfindung",
+      "gesetzestext": "(1) Wird infolge einer Verletzung des Körpers oder der Gesundheit die Erwerbsfähigkeit des Verletzten aufgehoben oder gemindert oder tritt eine Vermehrung seiner Bedürfnisse ein, so ist dem Verletzten durch Entrichtung einer Geldrente Schadensersatz zu leisten.\n(2) Auf die Rente findet die Vorschrift des § 760 Anwendung. Ob, in welcher Art und für welchen Betrag der Ersatzpflichtige Sicherheit zu leisten hat, bestimmt sich nach den Umständen.\n(3) Statt der Rente kann der Verletzte eine Abfindung in Kapital verlangen, wenn ein wichtiger Grund vorliegt.\n(4) Der Anspruch wird nicht dadurch ausgeschlossen, dass ein anderer dem Verletzten Unterhalt zu gewähren hat.",
+      "quelle": "https://www.gesetze-im-internet.de/bgb/__843.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767092888722",
+      "gesetz": "BGB",
+      "nummer": "§ 844",
+      "titel": "§ 844 Ersatzansprüche Dritter bei Tötung",
+      "gesetzestext": "(1) Im Falle der Tötung hat der Ersatzpflichtige die Kosten der Beerdigung demjenigen zu ersetzen, welchem die Verpflichtung obliegt, diese Kosten zu tragen.\n(2) Stand der Getötete zur Zeit der Verletzung zu einem Dritten in einem Verhältnis, vermöge dessen er diesem gegenüber kraft Gesetzes unterhaltspflichtig war oder unterhaltspflichtig werden konnte, und ist dem Dritten infolge der Tötung das Recht auf den Unterhalt entzogen, so hat der Ersatzpflichtige dem Dritten durch Entrichtung einer Geldrente insoweit Schadensersatz zu leisten, als der Getötete während der mutmaßlichen Dauer seines Lebens zur Gewährung des Unterhalts verpflichtet gewesen sein würde; die Vorschrift des § 843 Abs. 2 bis 4 findet entsprechende Anwendung. Die Ersatzpflicht tritt auch dann ein, wenn der Dritte zur Zeit der Verletzung gezeugt, aber noch nicht geboren war.\n(3) Der Ersatzpflichtige hat dem Hinterbliebenen, der zur Zeit der Verletzung zu dem Getöteten in einem besonderen persönlichen Näheverhältnis stand, für das dem Hinterbliebenen zugefügte seelische Leid eine angemessene Entschädigung in Geld zu leisten. Ein besonderes persönliches Näheverhältnis wird vermutet, wenn der Hinterbliebene der Ehegatte, der Lebenspartner, ein Elternteil oder ein Kind des Getöteten war.",
+      "quelle": "https://www.gesetze-im-internet.de/bgb/__844.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767092904131",
+      "gesetz": "BGB",
+      "nummer": "§ 845",
+      "titel": "§ 845 Ersatzansprüche wegen entgangener Dienste",
+      "gesetzestext": "Im Falle der Tötung, der Verletzung des Körpers oder der Gesundheit sowie im Falle der Freiheitsentziehung hat der Ersatzpflichtige, wenn der Verletzte kraft Gesetzes einem Dritten zur Leistung von Diensten in dessen Hauswesen oder Gewerbe verpflichtet war, dem Dritten für die entgehenden Dienste durch Entrichtung einer Geldrente Ersatz zu leisten. Die Vorschrift des § 843 Abs. 2 bis 4 findet entsprechende Anwendung.",
+      "quelle": "https://www.gesetze-im-internet.de/bgb/__845.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767092917337",
+      "gesetz": "BGB",
+      "nummer": "§ 846",
+      "titel": "§ 846 Mitverschulden des Verletzten",
+      "gesetzestext": "Hat in den Fällen der §§ 844, 845 bei der Entstehung des Schadens, den der Dritte erleidet, ein Verschulden des Verletzten mitgewirkt, so findet auf den Anspruch des Dritten die Vorschrift des § 254 Anwendung.",
+      "quelle": "https://www.gesetze-im-internet.de/bgb/__846.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767092936424",
+      "gesetz": "BGB",
+      "nummer": "§ 852",
+      "titel": "§ 852 Herausgabeanspruch nach Eintritt der Verjährung",
+      "gesetzestext": "Hat der Ersatzpflichtige durch eine unerlaubte Handlung auf Kosten des Verletzten etwas erlangt, so ist er auch nach Eintritt der Verjährung des Anspruchs auf Ersatz des aus einer unerlaubten Handlung entstandenen Schadens zur Herausgabe nach den Vorschriften über die Herausgabe einer ungerechtfertigten Bereicherung verpflichtet. Dieser Anspruch verjährt in zehn Jahren von seiner Entstehung an, ohne Rücksicht auf die Entstehung in 30 Jahren von der Begehung der Verletzungshandlung oder dem sonstigen, den Schaden auslösenden Ereignis an.",
+      "quelle": "https://www.gesetze-im-internet.de/bgb/__852.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767092955794",
+      "gesetz": "BGB",
+      "nummer": "§ 853",
+      "titel": "§ 853 Arglisteinrede",
+      "gesetzestext": "rlangt jemand durch eine von ihm begangene unerlaubte Handlung eine Forderung gegen den Verletzten, so kann der Verletzte die Erfüllung auch dann verweigern, wenn der Anspruch auf Aufhebung der Forderung verjährt ist.",
+      "quelle": "https://www.gesetze-im-internet.de/bgb/__853.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767092990704",
+      "gesetz": "PflVG",
+      "nummer": "",
+      "titel": "",
+      "gesetzestext": "",
+      "quelle": "",
+      "praxisbeispiele": []
     }
   ]
 }
