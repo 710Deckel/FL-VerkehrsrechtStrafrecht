@@ -678,6 +678,159 @@
       "gesetzestext": "ls Ordnungswidrigkeit kann nur vorsätzliches Handeln geahndet werden, außer wenn das Gesetz fahrlässiges Handeln ausdrücklich mit Geldbuße bedroht.",
       "quelle": "https://www.gesetze-im-internet.de/owig_1968/__10.html",
       "praxisbeispiele": []
+    },
+    {
+      "id": "1767100341608",
+      "gesetz": "OWiG",
+      "nummer": "§ 11",
+      "titel": "§ 11 Irrtum",
+      "gesetzestext": "(1) Wer bei Begehung einer Handlung einen Umstand nicht kennt, der zum gesetzlichen Tatbestand gehört, handelt nicht vorsätzlich. Die Möglichkeit der Ahndung wegen fahrlässigen Handelns bleibt unberührt.\n(2) Fehlt dem Täter bei Begehung der Handlung die Einsicht, etwas Unerlaubtes zu tun, namentlich weil er das Bestehen oder die Anwendbarkeit einer Rechtsvorschrift nicht kennt, so handelt er nicht vorwerfbar, wenn er diesen Irrtum nicht vermeiden konnte.",
+      "quelle": "https://www.gesetze-im-internet.de/owig_1968/__11.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767100357760",
+      "gesetz": "OWiG",
+      "nummer": "§ 12",
+      "titel": "§ 12 Verantwortlichkeit",
+      "gesetzestext": "(1) Nicht vorwerfbar handelt, wer bei Begehung einer Handlung noch nicht vierzehn Jahre alt ist. Ein Jugendlicher handelt nur unter den Voraussetzungen des § 3 Satz 1 des Jugendgerichtsgesetzes vorwerfbar.\n(2) Nicht vorwerfbar handelt, wer bei Begehung der Handlung wegen einer krankhaften seelischen Störung, wegen einer tiefgreifenden Bewußtseinsstörung oder wegen einer Intelligenzminderung oder einer schweren anderen seelischen Störung unfähig ist, das Unerlaubte der Handlung einzusehen oder nach dieser Einsicht zu handeln.",
+      "quelle": "https://www.gesetze-im-internet.de/owig_1968/__12.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767100371707",
+      "gesetz": "OWiG",
+      "nummer": "§ 13",
+      "titel": "§ 13 Versuch",
+      "gesetzestext": "(1) Eine Ordnungswidrigkeit versucht, wer nach seiner Vorstellung von der Handlung zur Verwirklichung des Tatbestandes unmittelbar ansetzt.\n(2) Der Versuch kann nur geahndet werden, wenn das Gesetz es ausdrücklich bestimmt.\n(3) Der Versuch wird nicht geahndet, wenn der Täter freiwillig die weitere Ausführung der Handlung aufgibt oder deren Vollendung verhindert. Wird die Handlung ohne Zutun des Zurücktretenden nicht vollendet, so genügt sein freiwilliges und ernsthaftes Bemühen, die Vollendung zu verhindern.\n(4) Sind an der Handlung mehrere beteiligt, so wird der Versuch desjenigen nicht geahndet, der freiwillig die Vollendung verhindert. Jedoch genügt sein freiwilliges und ernsthaftes Bemühen, die Vollendung der Handlung zu verhindern, wenn sie ohne sein Zutun nicht vollendet oder unabhängig von seiner früheren Beteiligung begangen wird.",
+      "quelle": "https://www.gesetze-im-internet.de/owig_1968/__13.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767100535246",
+      "gesetz": "OWiG",
+      "nummer": "§ 14",
+      "titel": "§ 14 Beteiligung",
+      "gesetzestext": "(1) Beteiligen sich mehrere an einer Ordnungswidrigkeit, so handelt jeder von ihnen ordnungswidrig. Dies gilt auch dann, wenn besondere persönliche Merkmale (§ 9 Abs. 1), welche die Möglichkeit der Ahndung begründen, nur bei einem Beteiligten vorliegen.\n(2) Die Beteiligung kann nur dann geahndet werden, wenn der Tatbestand eines Gesetzes, das die Ahndung mit einer Geldbuße zuläßt, rechtswidrig verwirklicht wird oder in Fällen, in denen auch der Versuch geahndet werden kann, dies wenigstens versucht wird.\n(3) Handelt einer der Beteiligten nicht vorwerfbar, so wird dadurch die Möglichkeit der Ahndung bei den anderen nicht ausgeschlossen. Bestimmt das Gesetz, daß besondere persönliche Merkmale die Möglichkeit der Ahndung ausschließen, so gilt dies nur für den Beteiligten, bei dem sie vorliegen.\n(4) Bestimmt das Gesetz, daß eine Handlung, die sonst eine Ordnungswidrigkeit wäre, bei besonderen persönlichen Merkmalen des Täters eine Straftat ist, so gilt dies nur für den Beteiligten, bei dem sie vorliegen.",
+      "quelle": "https://www.gesetze-im-internet.de/owig_1968/__14.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767100552109",
+      "gesetz": "OWiG",
+      "nummer": "§ 15",
+      "titel": "§ 15 Notwehr",
+      "gesetzestext": "(1) Wer eine Handlung begeht, die durch Notwehr geboten ist, handelt nicht rechtswidrig.\n(2) Notwehr ist die Verteidigung, die erforderlich ist, um einen gegenwärtigen rechtswidrigen Angriff von sich oder einem anderen abzuwenden.\n(3) Überschreitet der Täter die Grenzen der Notwehr aus Verwirrung, Furcht oder Schrecken, so wird die Handlung nicht geahndet.",
+      "quelle": "https://www.gesetze-im-internet.de/owig_1968/__15.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767100578953",
+      "gesetz": "OWiG",
+      "nummer": "§ 16",
+      "titel": "§ 16 Rechtfertigender Notstand",
+      "gesetzestext": "er in einer gegenwärtigen, nicht anders abwendbaren Gefahr für Leben, Leib, Freiheit, Ehre, Eigentum oder ein anderes Rechtsgut eine Handlung begeht, um die Gefahr von sich oder einem anderen abzuwenden, handelt nicht rechtswidrig, wenn bei Abwägung der widerstreitenden Interessen, namentlich der betroffenen Rechtsgüter und des Grades der ihnen drohenden Gefahren, das geschützte Interesse das beeinträchtigte wesentlich überwiegt. Dies gilt jedoch nur, soweit die Handlung ein angemessenes Mittel ist, die Gefahr abzuwenden.",
+      "quelle": "https://www.gesetze-im-internet.de/owig_1968/__16.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767100600968",
+      "gesetz": "OWiG",
+      "nummer": "§ 17",
+      "titel": "§ 17 Höhe der Geldbuße",
+      "gesetzestext": "(1) Die Geldbuße beträgt mindestens fünf Euro und, wenn das Gesetz nichts anderes bestimmt, höchstens eintausend Euro.\n(2) Droht das Gesetz für vorsätzliches und fahrlässiges Handeln Geldbuße an, ohne im Höchstmaß zu unterscheiden, so kann fahrlässiges Handeln im Höchstmaß nur mit der Hälfte des angedrohten Höchstbetrages der Geldbuße geahndet werden.\n(3) Grundlage für die Zumessung der Geldbuße sind die Bedeutung der Ordnungswidrigkeit und der Vorwurf, der den Täter trifft. Auch die wirtschaftlichen Verhältnisse des Täters kommen in Betracht; bei geringfügigen Ordnungswidrigkeiten bleiben sie jedoch in der Regel unberücksichtigt.\n(4) Die Geldbuße soll den wirtschaftlichen Vorteil, den der Täter aus der Ordnungswidrigkeit gezogen hat, übersteigen. Reicht das gesetzliche Höchstmaß hierzu nicht aus, so kann es überschritten werden.\nFußnote\n(+++ § 17 Abs. 2: Zur Nichtanwendung vgl. § 332 Abs. 9 Satz 1 +++)",
+      "quelle": "https://www.gesetze-im-internet.de/owig_1968/__17.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767100617305",
+      "gesetz": "OWiG",
+      "nummer": "§ 18",
+      "titel": "§ 18 Zahlungserleichterungen",
+      "gesetzestext": "Ist dem Betroffenen nach seinen wirtschaftlichen Verhältnissen nicht zuzumuten, die Geldbuße sofort zu zahlen, so wird ihm eine Zahlungsfrist bewilligt oder gestattet, die Geldbuße in bestimmten Teilbeträgen zu zahlen. Dabei kann angeordnet werden, daß die Vergünstigung, die Geldbuße in bestimmten Teilbeträgen zu zahlen, entfällt, wenn der Betroffene einen Teilbetrag nicht rechtzeitig zahlt.",
+      "quelle": "https://www.gesetze-im-internet.de/owig_1968/__18.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767100635128",
+      "gesetz": "OWiG",
+      "nummer": "§ 19",
+      "titel": "§ 19 Tateinheit",
+      "gesetzestext": "(1) Verletzt dieselbe Handlung mehrere Gesetze, nach denen sie als Ordnungswidrigkeit geahndet werden kann, oder ein solches Gesetz mehrmals, so wird nur eine einzige Geldbuße festgesetzt.\n(2) Sind mehrere Gesetze verletzt, so wird die Geldbuße nach dem Gesetz bestimmt, das die höchste Geldbuße androht. Auf die in dem anderen Gesetz angedrohten Nebenfolgen kann erkannt werden.",
+      "quelle": "https://www.gesetze-im-internet.de/owig_1968/__19.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767100677181",
+      "gesetz": "OWiG",
+      "nummer": "§ 20",
+      "titel": "§ 20 Tatmehrheit",
+      "gesetzestext": "Sind mehrere Geldbußen verwirkt, so wird jede gesondert festgesetzt.",
+      "quelle": "https://www.gesetze-im-internet.de/owig_1968/__20.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767100695437",
+      "gesetz": "OWiG",
+      "nummer": "§ 21",
+      "titel": "§ 21 Zusammentreffen von Straftat und Ordnungswidrigkeit",
+      "gesetzestext": "(1) Ist eine Handlung gleichzeitig Straftat und Ordnungswidrigkeit, so wird nur das Strafgesetz angewendet. Auf die in dem anderen Gesetz angedrohten Nebenfolgen kann erkannt werden.\n(2) Im Falle des Absatzes 1 kann die Handlung jedoch als Ordnungswidrigkeit geahndet werden, wenn eine Strafe nicht verhängt wird.",
+      "quelle": "https://www.gesetze-im-internet.de/owig_1968/__21.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767100710814",
+      "gesetz": "OWiG",
+      "nummer": "§ 22",
+      "titel": "§ 22 Einziehung von Gegenständen",
+      "gesetzestext": "(1) Als Nebenfolge einer Ordnungswidrigkeit dürfen Gegenstände nur eingezogen werden, soweit das Gesetz es ausdrücklich zuläßt.\n(2) Die Einziehung ist nur zulässig, wenn\n1.\ndie Gegenstände zur Zeit der Entscheidung dem Täter gehören oder zustehen oder\n2.\ndie Gegenstände nach ihrer Art und den Umständen die Allgemeinheit gefährden oder die Gefahr besteht, daß sie der Begehung von Handlungen dienen werden, die mit Strafe oder mit Geldbuße bedroht sind.\n(3) Unter den Voraussetzungen des Absatzes 2 Nr. 2 ist die Einziehung der Gegenstände auch zulässig, wenn der Täter nicht vorwerfbar gehandelt hat.",
+      "quelle": "https://www.gesetze-im-internet.de/owig_1968/__22.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767100721727",
+      "gesetz": "OWiG",
+      "nummer": "§ 23",
+      "titel": "§ 23 Erweiterte Voraussetzungen der Einziehung",
+      "gesetzestext": "Verweist das Gesetz auf diese Vorschrift, so dürfen die Gegenstände abweichend von § 22 Abs. 2 Nr. 1 auch dann eingezogen werden, wenn derjenige, dem sie zur Zeit der Entscheidung gehören oder zustehen,\n1.\nwenigstens leichtfertig dazu beigetragen hat, daß die Sache oder das Recht Mittel oder Gegenstand der Handlung oder ihrer Vorbereitung gewesen ist, oder\n2.\ndie Gegenstände in Kenntnis der Umstände, welche die Einziehung zugelassen hätten, in verwerflicher Weise erworben hat.\nFußnote\n(+++ § 23: Zur Anwendung vgl. § 95 Satz 2 MPDG +++)",
+      "quelle": "https://www.gesetze-im-internet.de/owig_1968/__23.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767100735524",
+      "gesetz": "OWiG",
+      "nummer": "§ 24",
+      "titel": "§ 24 Grundsatz der Verhältnismäßigkeit",
+      "gesetzestext": "(1) Die Einziehung darf in den Fällen des § 22 Abs. 2 Nr. 1 und des § 23 nicht angeordnet werden, wenn sie zur Bedeutung der begangenen Handlung und zum Vorwurf, der den von der Einziehung betroffenen Täter oder in den Fällen des § 23 den Dritten trifft, außer Verhältnis steht.\n(2) In den Fällen der §§ 22 und 23 wird angeordnet, daß die Einziehung vorbehalten bleibt, und eine weniger einschneidende Maßnahme getroffen, wenn der Zweck der Einziehung auch durch sie erreicht werden kann. In Betracht kommt namentlich die Anweisung,\n1.\ndie Gegenstände unbrauchbar zu machen,\n2.\nan den Gegenständen bestimmte Einrichtungen oder Kennzeichen zu beseitigen oder die Gegenstände sonst zu ändern oder\n3.\nüber die Gegenstände in bestimmter Weise zu verfügen.\nWird die Anweisung befolgt, so wird der Vorbehalt der Einziehung aufgehoben; andernfalls wird die Einziehung nachträglich angeordnet.\n(3) Die Einziehung kann auf einen Teil der Gegenstände beschränkt werden.",
+      "quelle": "https://www.gesetze-im-internet.de/owig_1968/__24.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767100753657",
+      "gesetz": "OWiG",
+      "nummer": "§ 25",
+      "titel": "§ 25 Einziehung des Wertersatzes",
+      "gesetzestext": "(1) Hat der Täter den Gegenstand, der ihm zur Zeit der Handlung gehörte oder zustand und dessen Einziehung hätte angeordnet werden können, vor der Anordnung der Einziehung verwertet, namentlich veräußert oder verbraucht, oder hat er die Einziehung des Gegenstandes sonst vereitelt, so kann die Einziehung eines Geldbetrages gegen den Täter bis zu der Höhe angeordnet werden, die dem Wert des Gegenstandes entspricht.\n(2) Eine solche Anordnung kann auch neben der Einziehung eines Gegenstandes oder an deren Stelle getroffen werden, wenn ihn der Täter vor der Anordnung der Einziehung mit dem Recht eines Dritten belastet hat, dessen Erlöschen ohne Entschädigung nicht angeordnet werden kann oder im Falle der Einziehung nicht angeordnet werden könnte (§ 26 Abs. 2, § 28); wird die Anordnung neben der Einziehung getroffen, so bemißt sich die Höhe des Wertersatzes nach dem Wert der Belastung des Gegenstandes.\n(3) Der Wert des Gegenstandes und der Belastung kann geschätzt werden.\n(4) Ist die Anordnung der Einziehung eines Gegenstandes nicht ausführbar oder unzureichend, weil nach der Anordnung eine der in den Absätzen 1 oder 2 bezeichneten Voraussetzungen eingetreten oder bekanntgeworden ist, so kann die Einziehung des Wertersatzes nachträglich angeordnet werden.\n(5) Für die Bewilligung von Zahlungserleichterungen gilt § 18.",
+      "quelle": "https://www.gesetze-im-internet.de/owig_1968/__25.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767100769634",
+      "gesetz": "OWiG",
+      "nummer": "§ 26",
+      "titel": "§ 26 Wirkung der Einziehung",
+      "gesetzestext": "(1) Wird ein Gegenstand eingezogen, so geht das Eigentum an der Sache oder das eingezogene Recht mit der Rechtskraft der Entscheidung auf den Staat oder, soweit das Gesetz dies bestimmt, auf die Körperschaft oder Anstalt des öffentlichen Rechts über, deren Organ oder Stelle die Einziehung angeordnet hat.\n(2) Rechte Dritter an dem Gegenstand bleiben bestehen. Das Erlöschen dieser Rechte wird jedoch angeordnet, wenn die Einziehung darauf gestützt wird, daß die Voraussetzungen des § 22 Abs. 2 Nr. 2 vorliegen. Das Erlöschen des Rechts eines Dritten kann auch dann angeordnet werden, wenn diesem eine Entschädigung nach § 28 Abs. 2 Nr. 1 oder 2 nicht zu gewähren ist.\n(3) Vor der Rechtskraft wirkt die Anordnung der Einziehung als Veräußerungsverbot im Sinne des § 136 des Bürgerlichen Gesetzbuches; das Verbot umfaßt auch andere Verfügungen als Veräußerungen. Die gleiche Wirkung hat die Anordnung des Vorbehalts der Einziehung, auch wenn sie noch nicht rechtskräftig ist.",
+      "quelle": "https://www.gesetze-im-internet.de/owig_1968/__26.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767100780990",
+      "gesetz": "OWiG",
+      "nummer": "§ 27",
+      "titel": "§ 27 Selbständige Anordnung",
+      "gesetzestext": "(1) Kann wegen der Ordnungswidrigkeit aus tatsächlichen Gründen keine bestimmte Person verfolgt oder eine Geldbuße gegen eine bestimmte Person nicht festgesetzt werden, so kann die Einziehung des Gegenstandes oder des Wertersatzes selbständig angeordnet werden, wenn die Voraussetzungen, unter denen die Maßnahme zugelassen ist, im übrigen vorliegen.\n(2) Unter den Voraussetzungen des § 22 Abs. 2 Nr. 2 oder Abs. 3 ist Absatz 1 auch dann anzuwenden, wenn\n1.\ndie Verfolgung der Ordnungswidrigkeit verjährt ist oder\n2.\nsonst aus rechtlichen Gründen keine bestimmte Person verfolgt werden kann und das Gesetz nichts anderes bestimmt.\nDie Einziehung darf jedoch nicht angeordnet werden, wenn Antrag oder Ermächtigung fehlen.\n(3) Absatz 1 ist auch anzuwenden, wenn nach § 47 die Verfolgungsbehörde von der Verfolgung der Ordnungswidrigkeit absieht oder das Gericht das Verfahren einstellt.",
+      "quelle": "https://www.gesetze-im-internet.de/owig_1968/__27.html",
+      "praxisbeispiele": []
     }
   ]
 }
