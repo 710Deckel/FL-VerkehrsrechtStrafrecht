@@ -2361,6 +2361,294 @@
       "gesetzestext": "(1) Wer in der Absicht, sich oder einem Dritten einen rechtswidrigen Vermögensvorteil zu verschaffen, das Vermögen eines anderen dadurch beschädigt, daß er durch Vorspiegelung falscher oder durch Entstellung oder Unterdrückung wahrer Tatsachen einen Irrtum erregt oder unterhält, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.\n(2) Der Versuch ist strafbar.\n(3) In besonders schweren Fällen ist die Strafe Freiheitsstrafe von sechs Monaten bis zu zehn Jahren. Ein besonders schwerer Fall liegt in der Regel vor, wenn der Täter\n1.\ngewerbsmäßig oder als Mitglied einer Bande handelt, die sich zur fortgesetzten Begehung von Urkundenfälschung oder Betrug verbunden hat,\n2.\neinen Vermögensverlust großen Ausmaßes herbeiführt oder in der Absicht handelt, durch die fortgesetzte Begehung von Betrug eine große Zahl von Menschen in die Gefahr des Verlustes von Vermögenswerten zu bringen,\n3.\neine andere Person in wirtschaftliche Not bringt,\n4.\nseine Befugnisse oder seine Stellung als Amtsträger oder Europäischer Amtsträger mißbraucht oder\n5.\neinen Versicherungsfall vortäuscht, nachdem er oder ein anderer zu diesem Zweck eine Sache von bedeutendem Wert in Brand gesetzt oder durch eine Brandlegung ganz oder teilweise zerstört oder ein Schiff zum Sinken oder Stranden gebracht hat.\n(4) § 243 Abs. 2 sowie die §§ 247 und 248a gelten entsprechend.\n(5) Mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren, in minder schweren Fällen mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren wird bestraft, wer den Betrug als Mitglied einer Bande, die sich zur fortgesetzten Begehung von Straftaten nach den §§ 263 bis 264 oder 267 bis 269 verbunden hat, gewerbsmäßig begeht.\n(6) Das Gericht kann Führungsaufsicht anordnen (§ 68 Abs. 1).\n(7) (weggefallen)",
       "quelle": "https://www.gesetze-im-internet.de/stgb/__263.html",
       "praxisbeispiele": []
+    },
+    {
+      "id": "1767109478469",
+      "gesetz": "StGB",
+      "nummer": "§ 267",
+      "titel": "§ 267 Urkundenfälschung",
+      "gesetzestext": "(1) Wer zur Täuschung im Rechtsverkehr eine unechte Urkunde herstellt, eine echte Urkunde verfälscht oder eine unechte oder verfälschte Urkunde gebraucht, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.\n(2) Der Versuch ist strafbar.\n(3) In besonders schweren Fällen ist die Strafe Freiheitsstrafe von sechs Monaten bis zu zehn Jahren. Ein besonders schwerer Fall liegt in der Regel vor, wenn der Täter\n1.\ngewerbsmäßig oder als Mitglied einer Bande handelt, die sich zur fortgesetzten Begehung von Betrug oder Urkundenfälschung verbunden hat,\n2.\neinen Vermögensverlust großen Ausmaßes herbeiführt,\n3.\ndurch eine große Zahl von unechten oder verfälschten Urkunden die Sicherheit des Rechtsverkehrs erheblich gefährdet oder\n4.\nseine Befugnisse oder seine Stellung als Amtsträger oder Europäischer Amtsträger mißbraucht.\n(4) Mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren, in minder schweren Fällen mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren wird bestraft, wer die Urkundenfälschung als Mitglied einer Bande, die sich zur fortgesetzten Begehung von Straftaten nach den §§ 263 bis 264 oder 267 bis 269 verbunden hat, gewerbsmäßig begeht.",
+      "quelle": "https://www.gesetze-im-internet.de/stgb/__267.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767109495378",
+      "gesetz": "StGB",
+      "nummer": "§ 268",
+      "titel": "§ 268 Fälschung technischer Aufzeichnungen",
+      "gesetzestext": "(1) Wer zur Täuschung im Rechtsverkehr\n1.\neine unechte technische Aufzeichnung herstellt oder eine technische Aufzeichnung verfälscht oder\n2.\neine unechte oder verfälschte technische Aufzeichnung gebraucht,\nwird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.\n(2) Technische Aufzeichnung ist eine Darstellung von Daten, Meß- oder Rechenwerten, Zuständen oder Geschehensabläufen, die durch ein technisches Gerät ganz oder zum Teil selbsttätig bewirkt wird, den Gegenstand der Aufzeichnung allgemein oder für Eingeweihte erkennen läßt und zum Beweis einer rechtlich erheblichen Tatsache bestimmt ist, gleichviel ob ihr die Bestimmung schon bei der Herstellung oder erst später gegeben wird.\n(3) Der Herstellung einer unechten technischen Aufzeichnung steht es gleich, wenn der Täter durch störende Einwirkung auf den Aufzeichnungsvorgang das Ergebnis der Aufzeichnung beeinflußt.\n(4) Der Versuch ist strafbar.\n(5) § 267 Abs. 3 und 4 gilt entsprechend.",
+      "quelle": "https://www.gesetze-im-internet.de/stgb/__268.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767109524676",
+      "gesetz": "StGB",
+      "nummer": "§ 269",
+      "titel": "§ 269 Fälschung beweiserheblicher Daten",
+      "gesetzestext": "(1) Wer zur Täuschung im Rechtsverkehr beweiserhebliche Daten so speichert oder verändert, daß bei ihrer Wahrnehmung eine unechte oder verfälschte Urkunde vorliegen würde, oder derart gespeicherte oder veränderte Daten gebraucht, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.\n(2) Der Versuch ist strafbar.\n(3) § 267 Abs. 3 und 4 gilt entsprechend.",
+      "quelle": "https://www.gesetze-im-internet.de/stgb/__269.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767109542628",
+      "gesetz": "StGB",
+      "nummer": "§ 270",
+      "titel": "§ 270 Täuschung im Rechtsverkehr bei Datenverarbeitung",
+      "gesetzestext": "Der Täuschung im Rechtsverkehr steht die fälschliche Beeinflussung einer Datenverarbeitung im Rechtsverkehr gleich.",
+      "quelle": "https://www.gesetze-im-internet.de/stgb/__270.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767109570239",
+      "gesetz": "StGB",
+      "nummer": "§ 315",
+      "titel": "§ 315 Gefährliche Eingriffe in den Bahn-, Schiffs- und Luftverkehr",
+      "gesetzestext": "(1) Wer die Sicherheit des Schienenbahn-, Schwebebahn-, Schiffs- oder Luftverkehrs dadurch beeinträchtigt, daß er\n1.\nAnlagen oder Beförderungsmittel zerstört, beschädigt oder beseitigt,\n2.\nHindernisse bereitet,\n3.\nfalsche Zeichen oder Signale gibt oder\n4.\neinen ähnlichen, ebenso gefährlichen Eingriff vornimmt,\nund dadurch Leib oder Leben eines anderen Menschen oder fremde Sachen von bedeutendem Wert gefährdet, wird mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren bestraft.\n(2) Der Versuch ist strafbar.\n(3) Auf Freiheitsstrafe nicht unter einem Jahr ist zu erkennen, wenn der Täter\n1.\nin der Absicht handelt,\na)\neinen Unglücksfall herbeizuführen oder\nb)\neine andere Straftat zu ermöglichen oder zu verdecken, oder\n2.\ndurch die Tat eine schwere Gesundheitsschädigung eines anderen Menschen oder eine Gesundheitsschädigung einer großen Zahl von Menschen verursacht.\n(4) In minder schweren Fällen des Absatzes 1 ist auf Freiheitsstrafe von drei Monaten bis zu fünf Jahren, in minder schweren Fällen des Absatzes 3 auf Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu erkennen.\n(5) Wer in den Fällen des Absatzes 1 die Gefahr fahrlässig verursacht, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.\n(6) Wer in den Fällen des Absatzes 1 fahrlässig handelt und die Gefahr fahrlässig verursacht, wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft.",
+      "quelle": "https://www.gesetze-im-internet.de/stgb/__315.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767109588017",
+      "gesetz": "StGB",
+      "nummer": "§ 315a",
+      "titel": "§ 315a Gefährdung des Bahn-, Schiffs- und Luftverkehrs",
+      "gesetzestext": "(1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird bestraft, wer\n1.\nein Schienenbahn- oder Schwebebahnfahrzeug, ein Schiff oder ein Luftfahrzeug führt, obwohl er infolge des Genusses alkoholischer Getränke oder anderer berauschender Mittel oder infolge geistiger oder körperlicher Mängel nicht in der Lage ist, das Fahrzeug sicher zu führen, oder\n2.\nals Führer eines solchen Fahrzeugs oder als sonst für die Sicherheit Verantwortlicher durch grob pflichtwidriges Verhalten gegen Rechtsvorschriften zur Sicherung des Schienenbahn-, Schwebebahn-, Schiffs- oder Luftverkehrs verstößt\nund dadurch Leib oder Leben eines anderen Menschen oder fremde Sachen von bedeutendem Wert gefährdet.\n(2) In den Fällen des Absatzes 1 Nr. 1 ist der Versuch strafbar.\n(3) Wer in den Fällen des Absatzes 1\n1.\ndie Gefahr fahrlässig verursacht oder\n2.\nfahrlässig handelt und die Gefahr fahrlässig verursacht,\nwird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft.",
+      "quelle": "https://www.gesetze-im-internet.de/stgb/__315a.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767109609211",
+      "gesetz": "StGB",
+      "nummer": "§ 315b",
+      "titel": "§ 315b Gefährliche Eingriffe in den Straßenverkehr",
+      "gesetzestext": "(1) Wer die Sicherheit des Straßenverkehrs dadurch beeinträchtigt, daß er\n1.\nAnlagen oder Fahrzeuge zerstört, beschädigt oder beseitigt,\n2.\nHindernisse bereitet oder\n3.\neinen ähnlichen, ebenso gefährlichen Eingriff vornimmt,\nund dadurch Leib oder Leben eines anderen Menschen oder fremde Sachen von bedeutendem Wert gefährdet, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.\n(2) Der Versuch ist strafbar.\n(3) Handelt der Täter unter den Voraussetzungen des § 315 Abs. 3, so ist die Strafe Freiheitsstrafe von einem Jahr bis zu zehn Jahren, in minder schweren Fällen Freiheitsstrafe von sechs Monaten bis zu fünf Jahren.\n(4) Wer in den Fällen des Absatzes 1 die Gefahr fahrlässig verursacht, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.\n(5) Wer in den Fällen des Absatzes 1 fahrlässig handelt und die Gefahr fahrlässig verursacht, wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft.",
+      "quelle": "https://www.gesetze-im-internet.de/stgb/__315b.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767109627478",
+      "gesetz": "StGB",
+      "nummer": "§ 315c",
+      "titel": "§ 315c Gefährdung des Straßenverkehrs",
+      "gesetzestext": "(1) Wer im Straßenverkehr\n1.\nein Fahrzeug führt, obwohl er\na)\ninfolge des Genusses alkoholischer Getränke oder anderer berauschender Mittel oder\nb)\ninfolge geistiger oder körperlicher Mängel\nnicht in der Lage ist, das Fahrzeug sicher zu führen, oder\n2.\ngrob verkehrswidrig und rücksichtslos\na)\ndie Vorfahrt nicht beachtet,\nb)\nfalsch überholt oder sonst bei Überholvorgängen falsch fährt,\nc)\nan Fußgängerüberwegen falsch fährt,\nd)\nan unübersichtlichen Stellen, an Straßenkreuzungen, Straßeneinmündungen oder Bahnübergängen zu schnell fährt,\ne)\nan unübersichtlichen Stellen nicht die rechte Seite der Fahrbahn einhält,\nf)\nauf Autobahnen oder Kraftfahrstraßen wendet, rückwärts oder entgegen der Fahrtrichtung fährt oder dies versucht oder\ng)\nhaltende oder liegengebliebene Fahrzeuge nicht auf ausreichende Entfernung kenntlich macht, obwohl das zur Sicherung des Verkehrs erforderlich ist,\nund dadurch Leib oder Leben eines anderen Menschen oder fremde Sachen von bedeutendem Wert gefährdet, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.\n(2) In den Fällen des Absatzes 1 Nr. 1 ist der Versuch strafbar.\n(3) Wer in den Fällen des Absatzes 1\n1.\ndie Gefahr fahrlässig verursacht oder\n2.\nfahrlässig handelt und die Gefahr fahrlässig verursacht,\nwird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft.",
+      "quelle": "https://www.gesetze-im-internet.de/stgb/__315c.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767109645315",
+      "gesetz": "StGB",
+      "nummer": "§ 315d",
+      "titel": "§ 315d Verbotene Kraftfahrzeugrennen",
+      "gesetzestext": "(1) Wer im Straßenverkehr\n1.\nein nicht erlaubtes Kraftfahrzeugrennen ausrichtet oder durchführt,\n2.\nals Kraftfahrzeugführer an einem nicht erlaubten Kraftfahrzeugrennen teilnimmt oder\n3.\nsich als Kraftfahrzeugführer mit nicht angepasster Geschwindigkeit und grob verkehrswidrig und rücksichtslos fortbewegt, um eine höchstmögliche Geschwindigkeit zu erreichen,\nwird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft.\n(2) Wer in den Fällen des Absatzes 1 Nummer 2 oder 3 Leib oder Leben eines anderen Menschen oder fremde Sachen von bedeutendem Wert gefährdet, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.\n(3) Der Versuch ist in den Fällen des Absatzes 1 Nummer 1 strafbar.\n(4) Wer in den Fällen des Absatzes 2 die Gefahr fahrlässig verursacht, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.\n(5) Verursacht der Täter in den Fällen des Absatzes 2 durch die Tat den Tod oder eine schwere Gesundheitsschädigung eines anderen Menschen oder eine Gesundheitsschädigung einer großen Zahl von Menschen, so ist die Strafe Freiheitsstrafe von einem Jahr bis zu zehn Jahren, in minder schweren Fällen Freiheitsstrafe von sechs Monaten bis zu fünf Jahren.\nFußnote\n§ 315d Abs. 1 Nr. 3: Mit GG (100-1) vereinbar gem. BVerfGE v. 9.2.2022 I 479 - 2 BvL 1/20 -",
+      "quelle": "https://www.gesetze-im-internet.de/stgb/__315d.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767109667994",
+      "gesetz": "StGB",
+      "nummer": "§ 315e",
+      "titel": "§ 315e Schienenbahnen im Straßenverkehr",
+      "gesetzestext": "Soweit Schienenbahnen am Straßenverkehr teilnehmen, sind nur die Vorschriften zum Schutz des Straßenverkehrs (§§ 315b und 315c) anzuwenden.",
+      "quelle": "https://www.gesetze-im-internet.de/stgb/__315e.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767109684601",
+      "gesetz": "StGB",
+      "nummer": "§ 315f",
+      "titel": "§ 315f Einziehung",
+      "gesetzestext": "Kraftfahrzeuge, auf die sich eine Tat nach § 315d Absatz 1 Nummer 2 oder Nummer 3, Absatz 2, 4 oder 5 bezieht, können eingezogen werden. § 74a ist anzuwenden.",
+      "quelle": "https://www.gesetze-im-internet.de/stgb/__315f.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767109700038",
+      "gesetz": "StGB",
+      "nummer": "§ 316",
+      "titel": "§ 316 Trunkenheit im Verkehr",
+      "gesetzestext": "(1) Wer im Verkehr (§§ 315 bis 315e) ein Fahrzeug führt, obwohl er infolge des Genusses alkoholischer Getränke oder anderer berauschender Mittel nicht in der Lage ist, das Fahrzeug sicher zu führen, wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft, wenn die Tat nicht in § 315a oder § 315c mit Strafe bedroht ist.\n(2) Nach Absatz 1 wird auch bestraft, wer die Tat fahrlässig begeht.",
+      "quelle": "https://www.gesetze-im-internet.de/stgb/__316.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767109719002",
+      "gesetz": "StGB",
+      "nummer": "§ 316a",
+      "titel": "§ 316a Räuberischer Angriff auf Kraftfahrer",
+      "gesetzestext": "(1) Wer zur Begehung eines Raubes (§§ 249 oder 250), eines räuberischen Diebstahls (§ 252) oder einer räuberischen Erpressung (§ 255) einen Angriff auf Leib oder Leben oder die Entschlußfreiheit des Führers eines Kraftfahrzeugs oder eines Mitfahrers verübt und dabei die besonderen Verhältnisse des Straßenverkehrs ausnutzt, wird mit Freiheitsstrafe nicht unter fünf Jahren bestraft.\n(2) In minder schweren Fällen ist die Strafe Freiheitsstrafe von einem Jahr bis zu zehn Jahren.\n(3) Verursacht der Täter durch die Tat wenigstens leichtfertig den Tod eines anderen Menschen, so ist die Strafe lebenslange Freiheitsstrafe oder Freiheitsstrafe nicht unter zehn Jahren.",
+      "quelle": "https://www.gesetze-im-internet.de/stgb/__316a.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767109741581",
+      "gesetz": "StGB",
+      "nummer": "§ 323a",
+      "titel": "§ 323a Vollrausch",
+      "gesetzestext": "(1) Wer sich vorsätzlich oder fahrlässig durch alkoholische Getränke oder andere berauschende Mittel in einen Rausch versetzt, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft, wenn er in diesem Zustand eine rechtswidrige Tat begeht und ihretwegen nicht bestraft werden kann, weil er infolge des Rausches schuldunfähig war oder weil dies nicht auszuschließen ist.\n(2) Die Strafe darf nicht schwerer sein als die Strafe, die für die im Rausch begangene Tat angedroht ist.\n(3) Die Tat wird nur auf Antrag, mit Ermächtigung oder auf Strafverlangen verfolgt, wenn die Rauschtat nur auf Antrag, mit Ermächtigung oder auf Strafverlangen verfolgt werden könnte.",
+      "quelle": "https://www.gesetze-im-internet.de/stgb/__323a.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767109759225",
+      "gesetz": "StGB",
+      "nummer": "§ 323c",
+      "titel": "§ 323c Unterlassene Hilfeleistung; Behinderung von hilfeleistenden Personen",
+      "gesetzestext": "(1) Wer bei Unglücksfällen oder gemeiner Gefahr oder Not nicht Hilfe leistet, obwohl dies erforderlich und ihm den Umständen nach zuzumuten, insbesondere ohne erhebliche eigene Gefahr und ohne Verletzung anderer wichtiger Pflichten möglich ist, wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.\n(2) Ebenso wird bestraft, wer in diesen Situationen eine Person behindert, die einem Dritten Hilfe leistet oder leisten will.",
+      "quelle": "https://www.gesetze-im-internet.de/stgb/__323c.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767109811014",
+      "gesetz": "StGB",
+      "nummer": "§ 174",
+      "titel": "§ 174 Sexueller Mißbrauch von Schutzbefohlenen",
+      "gesetzestext": "(1) Wer sexuelle Handlungen\n1.\nan einer Person unter achtzehn Jahren, die ihm zur Erziehung oder zur Betreuung in der Lebensführung anvertraut ist,\n2.\nan einer Person unter achtzehn Jahren, die ihm im Rahmen eines Ausbildungs-, Dienst- oder Arbeitsverhältnisses untergeordnet ist, unter Missbrauch einer mit dem Ausbildungs-, Dienst- oder Arbeitsverhältnis verbundenen Abhängigkeit oder\n3.\nan einer Person unter achtzehn Jahren, die sein leiblicher oder rechtlicher Abkömmling ist oder der seines Ehegatten, seines Lebenspartners oder einer Person, mit der er in eheähnlicher oder lebenspartnerschaftsähnlicher Gemeinschaft lebt,\nvornimmt oder an sich von dem Schutzbefohlenen vornehmen läßt, wird mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren bestraft. Ebenso wird bestraft, wer unter den Voraussetzungen des Satzes 1 den Schutzbefohlenen dazu bestimmt, dass er sexuelle Handlungen an oder vor einer dritten Person vornimmt oder von einer dritten Person an sich vornehmen lässt.\n(2) Mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren wird eine Person bestraft, der in einer dazu bestimmten Einrichtung die Erziehung, Ausbildung oder Betreuung in der Lebensführung von Personen unter achtzehn Jahren anvertraut ist, und die sexuelle Handlungen\n1.\nan einer Person unter sechzehn Jahren, die zu dieser Einrichtung in einem Rechtsverhältnis steht, das ihrer Erziehung, Ausbildung oder Betreuung in der Lebensführung dient, vornimmt oder an sich von ihr vornehmen lässt oder\n2.\nunter Ausnutzung ihrer Stellung an einer Person unter achtzehn Jahren, die zu dieser Einrichtung in einem Rechtsverhältnis steht, das ihrer Erziehung, Ausbildung oder Betreuung in der Lebensführung dient, vornimmt oder an sich von ihr vornehmen lässt.\nEbenso wird bestraft, wer unter den Voraussetzungen des Satzes 1 den Schutzbefohlenen dazu bestimmt, dass er sexuelle Handlungen an oder vor einer dritten Person vornimmt oder von einer dritten Person an sich vornehmen lässt.\n(3) Wer unter den Voraussetzungen des Absatzes 1 oder 2\n1.\nsexuelle Handlungen vor dem Schutzbefohlenen vornimmt, um sich oder den Schutzbefohlenen hierdurch sexuell zu erregen, oder\n2.\nden Schutzbefohlenen dazu bestimmt, daß er sexuelle Handlungen vor ihm vornimmt,\nwird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.\n(4) Der Versuch ist strafbar.\n(5) In den Fällen des Absatzes 1 Satz 1 Nummer 1, des Absatzes 2 Satz 1 Nummer 1 oder des Absatzes 3 in Verbindung mit Absatz 1 Satz 1 Nummer 1 oder mit Absatz 2 Satz 1 Nummer 1 kann das Gericht von einer Bestrafung nach dieser Vorschrift absehen, wenn das Unrecht der Tat gering ist.",
+      "quelle": "https://www.gesetze-im-internet.de/stgb/__174.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767109830323",
+      "gesetz": "StGB",
+      "nummer": "§ 174a",
+      "titel": "§ 174a Sexueller Mißbrauch von Gefangenen, behördlich Verwahrten oder Kranken und Hilfsbedürftigen in Einrichtungen",
+      "gesetzestext": "(1) Wer sexuelle Handlungen an einer gefangenen oder auf behördliche Anordnung verwahrten Person, die ihm zur Erziehung, Ausbildung, Beaufsichtigung oder Betreuung anvertraut ist, unter Mißbrauch seiner Stellung vornimmt oder an sich von der gefangenen oder verwahrten Person vornehmen läßt oder die gefangene oder verwahrte Person zur Vornahme oder Duldung sexueller Handlungen an oder von einer dritten Person bestimmt, wird mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren bestraft.\n(2) Ebenso wird bestraft, wer eine Person, die in einer Einrichtung für kranke oder hilfsbedürftige Menschen aufgenommen und ihm zur Beaufsichtigung oder Betreuung anvertraut ist, dadurch mißbraucht, daß er unter Ausnutzung der Krankheit oder Hilfsbedürftigkeit dieser Person sexuelle Handlungen an ihr vornimmt oder an sich von ihr vornehmen läßt oder diese Person zur Vornahme oder Duldung sexueller Handlungen an oder von einer dritten Person bestimmt.\n(3) Der Versuch ist strafbar.",
+      "quelle": "https://www.gesetze-im-internet.de/stgb/__174a.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767109845149",
+      "gesetz": "StGB",
+      "nummer": "§ 174b",
+      "titel": "§ 174b Sexueller Mißbrauch unter Ausnutzung einer Amtsstellung",
+      "gesetzestext": "(1) Wer als Amtsträger, der zur Mitwirkung an einem Strafverfahren oder an einem Verfahren zur Anordnung einer freiheitsentziehenden Maßregel der Besserung und Sicherung oder einer behördlichen Verwahrung berufen ist, unter Mißbrauch der durch das Verfahren begründeten Abhängigkeit sexuelle Handlungen an demjenigen, gegen den sich das Verfahren richtet, vornimmt oder an sich von dem anderen vornehmen läßt oder die Person zur Vornahme oder Duldung sexueller Handlungen an oder von einer dritten Person bestimmt, wird mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren bestraft.\n(2) Der Versuch ist strafbar.",
+      "quelle": "https://www.gesetze-im-internet.de/stgb/__174b.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767109859307",
+      "gesetz": "StGB",
+      "nummer": "§ 174c",
+      "titel": "§ 174c Sexueller Mißbrauch unter Ausnutzung eines Beratungs-, Behandlungs- oder Betreuungsverhältnisses",
+      "gesetzestext": "(1) Wer sexuelle Handlungen an einer Person, die ihm wegen einer geistigen oder seelischen Krankheit oder Behinderung einschließlich einer Suchtkrankheit oder wegen einer körperlichen Krankheit oder Behinderung zur Beratung, Behandlung oder Betreuung anvertraut ist, unter Mißbrauch des Beratungs-, Behandlungs- oder Betreuungsverhältnisses vornimmt oder an sich von ihr vornehmen läßt oder diese Person zur Vornahme oder Duldung sexueller Handlungen an oder von einer dritten Person bestimmt, wird mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren bestraft.\n(2) Ebenso wird bestraft, wer sexuelle Handlungen an einer Person, die ihm zur psychotherapeutischen Behandlung anvertraut ist, unter Mißbrauch des Behandlungsverhältnisses vornimmt oder an sich von ihr vornehmen läßt oder diese Person zur Vornahme oder Duldung sexueller Handlungen an oder von einer dritten Person bestimmt.\n(3) Der Versuch ist strafbar.",
+      "quelle": "https://www.gesetze-im-internet.de/stgb/__174c.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767109880149",
+      "gesetz": "StGB",
+      "nummer": "§ 176",
+      "titel": "§ 176 Sexueller Missbrauch von Kindern",
+      "gesetzestext": "(1) Mit Freiheitsstrafe nicht unter einem Jahr wird bestraft, wer\n1.\nsexuelle Handlungen an einer Person unter vierzehn Jahren (Kind) vornimmt oder an sich von dem Kind vornehmen lässt,\n2.\nein Kind dazu bestimmt, dass es sexuelle Handlungen an einer dritten Person vornimmt oder von einer dritten Person an sich vornehmen lässt,\n3.\nein Kind für eine Tat nach Nummer 1 oder Nummer 2 anbietet oder nachzuweisen verspricht.\n(2) In den Fällen des Absatzes 1 Nummer 1 kann das Gericht von Strafe nach dieser Vorschrift absehen, wenn zwischen Täter und Kind die sexuelle Handlung einvernehmlich erfolgt und der Unterschied sowohl im Alter als auch im Entwicklungsstand oder Reifegrad gering ist, es sei denn, der Täter nutzt die fehlende Fähigkeit des Kindes zur sexuellen Selbstbestimmung aus.",
+      "quelle": "https://www.gesetze-im-internet.de/stgb/__176.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767109893871",
+      "gesetz": "StGB",
+      "nummer": "§ 176a",
+      "titel": "§ 176a Sexueller Missbrauch von Kindern ohne Körperkontakt mit dem Kind",
+      "gesetzestext": "(1) Mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren wird bestraft, wer\n1.\nsexuelle Handlungen vor einem Kind vornimmt oder vor einem Kind von einer dritten Person an sich vornehmen lässt,\n2.\nein Kind dazu bestimmt, dass es sexuelle Handlungen vornimmt, soweit die Tat nicht nach § 176 Absatz 1 Nummer 1 oder Nummer 2 mit Strafe bedroht ist, oder\n3.\nauf ein Kind durch einen pornographischen Inhalt (§ 11 Absatz 3) oder durch entsprechende Reden einwirkt.\n(2) Ebenso wird bestraft, wer ein Kind für eine Tat nach Absatz 1 anbietet oder nachzuweisen verspricht oder wer sich mit einem anderen zu einer solchen Tat verabredet.\n(3) Der Versuch ist in den Fällen des Absatzes 1 Nummer 1 und 2 strafbar. Bei Taten nach Absatz 1 Nummer 3 ist der Versuch in den Fällen strafbar, in denen eine Vollendung der Tat allein daran scheitert, dass der Täter irrig annimmt, sein Einwirken beziehe sich auf ein Kind.",
+      "quelle": "https://www.gesetze-im-internet.de/stgb/__176a.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767109908167",
+      "gesetz": "StGB",
+      "nummer": "§ 176b",
+      "titel": "§ 176b Vorbereitung des sexuellen Missbrauchs von Kindern",
+      "gesetzestext": "(1) Mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren wird bestraft, wer auf ein Kind durch einen Inhalt (§ 11 Absatz 3) einwirkt, um\n1.\ndas Kind zu sexuellen Handlungen zu bringen, die es an oder vor dem Täter oder an oder vor einer dritten Person vornehmen oder von dem Täter oder einer dritten Person an sich vornehmen lassen soll, oder\n2.\neine Tat nach § 184b Absatz 1 Satz 1 Nummer 3 oder nach § 184b Absatz 3 zu begehen.\n(2) Ebenso wird bestraft, wer ein Kind für eine Tat nach Absatz 1 anbietet oder nachzuweisen verspricht oder wer sich mit einem anderen zu einer solchen Tat verabredet.\n(3) Bei Taten nach Absatz 1 ist der Versuch in den Fällen strafbar, in denen eine Vollendung der Tat allein daran scheitert, dass der Täter irrig annimmt, sein Einwirken beziehe sich auf ein Kind.",
+      "quelle": "https://www.gesetze-im-internet.de/stgb/__176b.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767109921726",
+      "gesetz": "StGB",
+      "nummer": "§ 176c",
+      "titel": "§ 176c Schwerer sexueller Missbrauch von Kindern",
+      "gesetzestext": "(1) Der sexuelle Missbrauch von Kindern wird in den Fällen des § 176 Absatz 1 Nummer 1 und 2 mit Freiheitsstrafe nicht unter zwei Jahren bestraft, wenn\n1.\nder Täter innerhalb der letzten fünf Jahre wegen einer solchen Straftat rechtskräftig verurteilt worden ist,\n2.\nder Täter mindestens achtzehn Jahre alt ist und\na)\nmit dem Kind den Beischlaf vollzieht oder ähnliche sexuelle Handlungen an ihm vornimmt oder an sich von ihm vornehmen lässt, die mit einem Eindringen in den Körper verbunden sind, oder\nb)\ndas Kind dazu bestimmt, den Beischlaf mit einem Dritten zu vollziehen oder ähnliche sexuelle Handlungen, die mit einem Eindringen in den Körper verbunden sind, an dem Dritten vorzunehmen oder von diesem an sich vornehmen zu lassen,\n3.\ndie Tat von mehreren gemeinschaftlich begangen wird oder\n4.\nder Täter das Kind durch die Tat in die Gefahr einer schweren Gesundheitsschädigung oder einer erheblichen Schädigung der körperlichen oder seelischen Entwicklung bringt.\n(2) Ebenso wird bestraft, wer in den Fällen des § 176 Absatz 1 Nummer 1 oder Nummer 2, des § 176a Absatz 1 Nummer 1 oder Nummer 2 oder Absatz 3 Satz 1 als Täter oder anderer Beteiligter in der Absicht handelt, die Tat zum Gegenstand eines pornographischen Inhalts (§ 11 Absatz 3) zu machen, der nach § 184b Absatz 1 oder 2 verbreitet werden soll.\n(3) Mit Freiheitsstrafe nicht unter fünf Jahren wird bestraft, wer das Kind in den Fällen des § 176 Absatz 1 Nummer 1 oder Nummer 2 bei der Tat körperlich schwer misshandelt oder durch die Tat in die Gefahr des Todes bringt.\n(4) In die in Absatz 1 Nummer 1 bezeichnete Frist wird die Zeit nicht eingerechnet, in welcher der Täter auf behördliche Anordnung in einer Anstalt verwahrt worden ist. Eine Tat, die im Ausland abgeurteilt worden ist, steht in den Fällen des Absatzes 1 Nummer 1 einer im Inland abgeurteilten Tat gleich, wenn sie nach deutschem Strafrecht eine solche nach § 176 Absatz 1 Nummer 1 oder Nummer 2 wäre.",
+      "quelle": "https://www.gesetze-im-internet.de/stgb/__176c.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767109937443",
+      "gesetz": "StGB",
+      "nummer": "§ 176d",
+      "titel": "§ 176d Sexueller Missbrauch von Kindern mit Todesfolge",
+      "gesetzestext": "Verursacht der Täter durch den sexuellen Missbrauch (§§ 176 bis 176c) mindestens leichtfertig den Tod eines Kindes, so ist die Strafe lebenslange Freiheitsstrafe oder Freiheitsstrafe nicht unter zehn Jahren.",
+      "quelle": "https://www.gesetze-im-internet.de/stgb/__176d.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767109968671",
+      "gesetz": "StGB",
+      "nummer": "§ 176e",
+      "titel": "§ 176e Verbreitung und Besitz von Anleitungen zu sexuellem Missbrauch von Kindern",
+      "gesetzestext": "(1) Wer einen Inhalt (§ 11 Absatz 3) verbreitet oder der Öffentlichkeit zugänglich macht, der geeignet ist, als Anleitung zu einer in den §§ 176 bis 176d genannten rechtswidrigen Tat zu dienen, und der dazu bestimmt ist, die Bereitschaft anderer zu fördern oder zu wecken, eine solche Tat zu begehen, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.\n(2) Ebenso wird bestraft, wer\n1.\neinen Inhalt (§ 11 Absatz 3), der geeignet ist, als Anleitung zu einer in den §§ 176 bis 176d genannten rechtswidrigen Tat zu dienen, verbreitet oder der Öffentlichkeit zugänglich macht oder\n2.\nöffentlich oder in einer Versammlung zu einer in den §§ 176 bis 176d genannten rechtswidrigen Tat eine Anleitung gibt,\num die Bereitschaft anderer zu fördern oder zu wecken, eine solche Tat zu begehen.\n(3) Wer einen in Absatz 1 bezeichneten Inhalt abruft, besitzt, einer anderen Person zugänglich macht oder einer anderen Person den Besitz daran verschafft, wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft.\n(4) Absatz 3 gilt nicht für Handlungen, die ausschließlich der rechtmäßigen Erfüllung von Folgendem dienen:\n1.\nstaatlichen Aufgaben,\n2.\nAufgaben, die sich aus Vereinbarungen mit einer zuständigen staatlichen Stelle ergeben, oder\n3.\ndienstlichen oder beruflichen Pflichten.\n(5) Die Absätze 1 und 3 gelten nicht für dienstliche Handlungen im Rahmen von strafrechtlichen Ermittlungsverfahren, wenn\n1.\nkein kinderpornographischer Inhalt, der ein tatsächliches Geschehen wiedergibt oder der unter Verwendung einer Bildaufnahme eines Kindes oder Jugendlichen hergestellt worden ist, einer anderen Person oder der Öffentlichkeit zugänglich gemacht, verbreitet oder einer anderen Person der Besitz daran verschafft wird, und\n2.\ndie Aufklärung des Sachverhalts auf andere Weise aussichtslos oder wesentlich erschwert wäre.\n(6) Gegenstände, auf die sich eine Straftat nach Absatz 3 bezieht, werden eingezogen. § 74a ist anzuwenden.",
+      "quelle": "https://www.gesetze-im-internet.de/stgb/__176e.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767109993601",
+      "gesetz": "StGB",
+      "nummer": "§ 177",
+      "titel": "§ 177 Sexueller Übergriff; sexuelle Nötigung; Vergewaltigung",
+      "gesetzestext": "(1) Wer gegen den erkennbaren Willen einer anderen Person sexuelle Handlungen an dieser Person vornimmt oder von ihr vornehmen lässt oder diese Person zur Vornahme oder Duldung sexueller Handlungen an oder von einem Dritten bestimmt, wird mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren bestraft.\n(2) Ebenso wird bestraft, wer sexuelle Handlungen an einer anderen Person vornimmt oder von ihr vornehmen lässt oder diese Person zur Vornahme oder Duldung sexueller Handlungen an oder von einem Dritten bestimmt, wenn\n1.\nder Täter ausnutzt, dass die Person nicht in der Lage ist, einen entgegenstehenden Willen zu bilden oder zu äußern,\n2.\nder Täter ausnutzt, dass die Person auf Grund ihres körperlichen oder psychischen Zustands in der Bildung oder Äußerung des Willens erheblich eingeschränkt ist, es sei denn, er hat sich der Zustimmung dieser Person versichert,\n3.\nder Täter ein Überraschungsmoment ausnutzt,\n4.\nder Täter eine Lage ausnutzt, in der dem Opfer bei Widerstand ein empfindliches Übel droht, oder\n5.\nder Täter die Person zur Vornahme oder Duldung der sexuellen Handlung durch Drohung mit einem empfindlichen Übel genötigt hat.\n(3) Der Versuch ist strafbar.\n(4) Auf Freiheitsstrafe nicht unter einem Jahr ist zu erkennen, wenn die Unfähigkeit, einen Willen zu bilden oder zu äußern, auf einer Krankheit oder Behinderung des Opfers beruht.\n(5) Auf Freiheitsstrafe nicht unter einem Jahr ist zu erkennen, wenn der Täter\n1.\ngegenüber dem Opfer Gewalt anwendet,\n2.\ndem Opfer mit gegenwärtiger Gefahr für Leib oder Leben droht oder\n3.\neine Lage ausnutzt, in der das Opfer der Einwirkung des Täters schutzlos ausgeliefert ist.\n(6) In besonders schweren Fällen ist auf Freiheitsstrafe nicht unter zwei Jahren zu erkennen. Ein besonders schwerer Fall liegt in der Regel vor, wenn\n1.\nder Täter mit dem Opfer den Beischlaf vollzieht oder vollziehen lässt oder ähnliche sexuelle Handlungen an dem Opfer vornimmt oder von ihm vornehmen lässt, die dieses besonders erniedrigen, insbesondere wenn sie mit einem Eindringen in den Körper verbunden sind (Vergewaltigung), oder\n2.\ndie Tat von mehreren gemeinschaftlich begangen wird.\n(7) Auf Freiheitsstrafe nicht unter drei Jahren ist zu erkennen, wenn der Täter\n1.\neine Waffe oder ein anderes gefährliches Werkzeug bei sich führt,\n2.\nsonst ein Werkzeug oder Mittel bei sich führt, um den Widerstand einer anderen Person durch Gewalt oder Drohung mit Gewalt zu verhindern oder zu überwinden, oder\n3.\ndas Opfer in die Gefahr einer schweren Gesundheitsschädigung bringt.\n(8) Auf Freiheitsstrafe nicht unter fünf Jahren ist zu erkennen, wenn der Täter\n1.\nbei der Tat eine Waffe oder ein anderes gefährliches Werkzeug verwendet oder\n2.\ndas Opfer\na)\nbei der Tat körperlich schwer misshandelt oder\nb)\ndurch die Tat in die Gefahr des Todes bringt.\n(9) In minder schweren Fällen der Absätze 1 und 2 ist auf Freiheitsstrafe von drei Monaten bis zu drei Jahren, in minder schweren Fällen der Absätze 4 und 5 ist auf Freiheitsstrafe von sechs Monaten bis zu zehn Jahren, in minder schweren Fällen der Absätze 7 und 8 ist auf Freiheitsstrafe von einem Jahr bis zu zehn Jahren zu erkennen.",
+      "quelle": "https://www.gesetze-im-internet.de/stgb/__177.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767110011797",
+      "gesetz": "StGB",
+      "nummer": "§ 178",
+      "titel": "§ 178 Sexueller Übergriff, sexuelle Nötigung und Vergewaltigung mit Todesfolge",
+      "gesetzestext": "Verursacht der Täter durch den sexuellen Übergriff, die sexuelle Nötigung oder Vergewaltigung (§ 177) wenigstens leichtfertig den Tod des Opfers, so ist die Strafe lebenslange Freiheitsstrafe oder Freiheitsstrafe nicht unter zehn Jahren.",
+      "quelle": "https://www.gesetze-im-internet.de/stgb/__178.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767110027365",
+      "gesetz": "StGB",
+      "nummer": "§ 180",
+      "titel": "§ 180 Förderung sexueller Handlungen Minderjähriger",
+      "gesetzestext": "(1) Wer sexuellen Handlungen einer Person unter sechzehn Jahren an oder vor einem Dritten oder sexuellen Handlungen eines Dritten an einer Person unter sechzehn Jahren\n1.\ndurch seine Vermittlung oder\n2.\ndurch Gewähren oder Verschaffen von Gelegenheit\nVorschub leistet, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft. Satz 1 Nr. 2 ist nicht anzuwenden, wenn der zur Sorge für die Person Berechtigte handelt; dies gilt nicht, wenn der Sorgeberechtigte durch das Vorschubleisten seine Erziehungspflicht gröblich verletzt.\n(2) Wer eine Person unter achtzehn Jahren bestimmt, sexuelle Handlungen gegen Entgelt an oder vor einem Dritten vorzunehmen oder von einem Dritten an sich vornehmen zu lassen, oder wer solchen Handlungen durch seine Vermittlung Vorschub leistet, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.\n(3) Im Fall des Absatzes 2 ist der Versuch strafbar.",
+      "quelle": "https://www.gesetze-im-internet.de/stgb/__180.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767110048165",
+      "gesetz": "StGB",
+      "nummer": "§ 182",
+      "titel": "§ 182 Sexueller Mißbrauch von Jugendlichen",
+      "gesetzestext": "(1) Wer eine Person unter achtzehn Jahren dadurch missbraucht, dass er unter Ausnutzung einer Zwangslage\n1.\nsexuelle Handlungen an ihr vornimmt oder an sich von ihr vornehmen lässt oder\n2.\ndiese dazu bestimmt, sexuelle Handlungen an einem Dritten vorzunehmen oder von einem Dritten an sich vornehmen zu lassen,\nwird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.\n(2) Ebenso wird eine Person über achtzehn Jahren bestraft, die eine Person unter achtzehn Jahren dadurch missbraucht, dass sie gegen Entgelt sexuelle Handlungen an ihr vornimmt oder an sich von ihr vornehmen lässt.\n(3) Eine Person über einundzwanzig Jahre, die eine Person unter sechzehn Jahren dadurch mißbraucht, daß sie\n1.\nsexuelle Handlungen an ihr vornimmt oder an sich von ihr vornehmen läßt oder\n2.\ndiese dazu bestimmt, sexuelle Handlungen an einem Dritten vorzunehmen oder von einem Dritten an sich vornehmen zu lassen,\nund dabei die ihr gegenüber fehlende Fähigkeit des Opfers zur sexuellen Selbstbestimmung ausnutzt, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.\n(4) Der Versuch ist strafbar.\n(5) In den Fällen des Absatzes 3 wird die Tat nur auf Antrag verfolgt, es sei denn, daß die Strafverfolgungsbehörde wegen des besonderen öffentlichen Interesses an der Strafverfolgung ein Einschreiten von Amts wegen für geboten hält.\n(6) In den Fällen der Absätze 1 bis 3 kann das Gericht von Strafe nach diesen Vorschriften absehen, wenn bei Berücksichtigung des Verhaltens der Person, gegen die sich die Tat richtet, das Unrecht der Tat gering ist.",
+      "quelle": "https://www.gesetze-im-internet.de/stgb/__182.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767110094667",
+      "gesetz": "StGB",
+      "nummer": "§ 183",
+      "titel": "§ 183 Exhibitionistische Handlungen",
+      "gesetzestext": "(1) Ein Mann, der eine andere Person durch eine exhibitionistische Handlung belästigt, wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.\n(2) Die Tat wird nur auf Antrag verfolgt, es sei denn, daß die Strafverfolgungsbehörde wegen des besonderen öffentlichen Interesses an der Strafverfolgung ein Einschreiten von Amts wegen für geboten hält.\n(3) Das Gericht kann die Vollstreckung einer Freiheitsstrafe auch dann zur Bewährung aussetzen, wenn zu erwarten ist, daß der Täter erst nach einer längeren Heilbehandlung keine exhibitionistischen Handlungen mehr vornehmen wird.\n(4) Absatz 3 gilt auch, wenn ein Mann oder eine Frau wegen einer exhibitionistischen Handlung\n1.\nnach einer anderen Vorschrift, die im Höchstmaß Freiheitsstrafe bis zu einem Jahr oder Geldstrafe androht, oder\n2.\nnach § 174 Absatz 3 Nummer 1 oder § 176a Absatz 1 Nummer 1\nbestraft wird.",
+      "quelle": "https://www.gesetze-im-internet.de/stgb/__183.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767110108186",
+      "gesetz": "StGB",
+      "nummer": "§ 183a",
+      "titel": "§ 183a Erregung öffentlichen Ärgernisses",
+      "gesetzestext": "Wer öffentlich sexuelle Handlungen vornimmt und dadurch absichtlich oder wissentlich ein Ärgernis erregt, wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft, wenn die Tat nicht in § 183 mit Strafe bedroht ist.",
+      "quelle": "https://www.gesetze-im-internet.de/stgb/__183a.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767110134316",
+      "gesetz": "StGB",
+      "nummer": "§ 184i",
+      "titel": "§ 184i Sexuelle Belästigung",
+      "gesetzestext": "(1) Wer eine andere Person in sexuell bestimmter Weise körperlich berührt und dadurch belästigt, wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft, wenn nicht die Tat in anderen Vorschriften dieses Abschnitts mit schwererer Strafe bedroht ist.\n(2) In besonders schweren Fällen ist die Freiheitsstrafe von drei Monaten bis zu fünf Jahren. Ein besonders schwerer Fall liegt in der Regel vor, wenn die Tat von mehreren gemeinschaftlich begangen wird.\n(3) Die Tat wird nur auf Antrag verfolgt, es sei denn, dass die Strafverfolgungsbehörde wegen des besonderen öffentlichen Interesses an der Strafverfolgung ein Einschreiten von Amts wegen für geboten hält.",
+      "quelle": "https://www.gesetze-im-internet.de/stgb/__184i.html",
+      "praxisbeispiele": []
     }
   ]
 }
