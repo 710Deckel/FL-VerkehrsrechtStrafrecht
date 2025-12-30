@@ -1371,6 +1371,132 @@
       "gesetzestext": "(1) Das Beschwerdegericht läßt die Rechtsbeschwerde nach § 79 Abs. 1 Satz 2 auf Antrag zu, wenn es geboten ist,\n1.\ndie Nachprüfung des Urteils zur Fortbildung des Rechts oder zur Sicherung einer einheitlichen Rechtsprechung zu ermöglichen, soweit Absatz 2 nichts anderes bestimmt, oder\n2.\ndas Urteil wegen Versagung des rechtlichen Gehörs aufzuheben.\n(2) Die Rechtsbeschwerde wird wegen der Anwendung von Rechtsnormen über das Verfahren nicht und wegen der Anwendung von anderen Rechtsnormen nur zur Fortbildung des Rechts zugelassen, wenn\n1.\ngegen den Betroffenen eine Geldbuße von nicht mehr als einhundert Euro festgesetzt oder eine Nebenfolge vermögensrechtlicher Art angeordnet worden ist, deren Wert im Urteil auf nicht mehr als einhundert Euro festgesetzt worden ist, oder\n2.\nder Betroffene wegen einer Ordnungswidrigkeit freigesprochen oder das Verfahren eingestellt worden ist und wegen der Tat im Bußgeldbescheid oder im Strafbefehl eine Geldbuße von nicht mehr als einhundertfünfzig Euro festgesetzt oder eine solche Geldbuße von der Staatsanwaltschaft beantragt worden war.\n(3) Für den Zulassungsantrag gelten die Vorschriften über die Einlegung der Rechtsbeschwerde entsprechend. Der Antrag gilt als vorsorglich eingelegte Rechtsbeschwerde. Die Vorschriften über die Anbringung der Beschwerdeanträge und deren Begründung (§§ 344, 345 der Strafprozeßordnung) sind zu beachten. Bei der Begründung der Beschwerdeanträge soll der Antragsteller zugleich angeben, aus welchen Gründen die in Absatz 1 bezeichneten Voraussetzungen vorliegen. § 35a der Strafprozeßordnung gilt entsprechend.\n(4) Das Beschwerdegericht entscheidet über den Antrag durch Beschluß. Die §§ 346 bis 348 der Strafprozeßordnung gelten entsprechend. Der Beschluß, durch den der Antrag verworfen wird, bedarf keiner Begründung. Wird der Antrag verworfen, so gilt die Rechtsbeschwerde als zurückgenommen.\n(5) Stellt sich vor der Entscheidung über den Zulassungsantrag heraus, daß ein Verfahrenshindernis besteht, so stellt das Beschwerdegericht das Verfahren nur dann ein, wenn das Verfahrenshindernis nach Erlaß des Urteils eingetreten ist.",
       "quelle": "https://www.gesetze-im-internet.de/owig_1968/__80.html",
       "praxisbeispiele": []
+    },
+    {
+      "id": "1767106603191",
+      "gesetz": "OWiG",
+      "nummer": "§ 80a",
+      "titel": "§ 80a Besetzung der Bußgeldsenate der Oberlandesgerichte",
+      "gesetzestext": "(1) Die Bußgeldsenate der Oberlandesgerichte sind mit einem Richter besetzt, soweit nichts anderes bestimmt ist.\n(2) Die Bußgeldsenate der Oberlandesgerichte sind mit drei Richtern einschließlich des Vorsitzenden besetzt in Verfahren über Rechtsbeschwerden in den in § 79 Abs. 1 Satz 1 bezeichneten Fällen, wenn eine Geldbuße von mehr als fünftausend Euro oder eine Nebenfolge vermögensrechtlicher Art im Wert von mehr als fünftausend Euro festgesetzt oder beantragt worden ist. Der Wert einer Geldbuße und der Wert einer vermögensrechtlichen Nebenfolge werden gegebenenfalls zusammengerechnet.\n(3) In den in Absatz 1 bezeichneten Fällen überträgt der Richter die Sache dem Bußgeldsenat in der Besetzung mit drei Richtern, wenn es geboten ist, das Urteil oder den Beschluss nach § 72 zur Fortbildung des Rechts oder zur Sicherung einer einheitlichen Rechtsprechung nachzuprüfen. Dies gilt auch in Verfahren über eine zugelassene Rechtsbeschwerde, nicht aber in Verfahren über deren Zulassung.",
+      "quelle": "https://www.gesetze-im-internet.de/owig_1968/__80a.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767106626755",
+      "gesetz": "OWiG",
+      "nummer": "§ 81",
+      "titel": "§ 81 Übergang vom Bußgeld- zum Strafverfahren",
+      "gesetzestext": "(1) Das Gericht ist im Bußgeldverfahren an die Beurteilung der Tat als Ordnungswidrigkeit nicht gebunden. Jedoch darf es auf Grund eines Strafgesetzes nur entscheiden, wenn der Betroffene zuvor auf die Veränderung des rechtlichen Gesichtspunktes hingewiesen und ihm Gelegenheit zur Verteidigung gegeben worden ist.\n(2) Der Betroffene wird auf die Veränderung des rechtlichen Gesichtspunktes auf Antrag der Staatsanwaltschaft oder von Amts wegen hingewiesen. Mit diesem Hinweis erhält er die Rechtsstellung des Angeklagten. Die Verhandlung wird unterbrochen, wenn das Gericht es für erforderlich hält oder wenn der Angeklagte es beantragt. Über sein Recht, die Unterbrechung zu beantragen, wird der Angeklagte belehrt.\n(3) In dem weiteren Verfahren sind die besonderen Vorschriften dieses Gesetzes nicht mehr anzuwenden. Jedoch kann die bisherige Beweisaufnahme, die in Anwesenheit des Betroffenen stattgefunden hat, auch dann verwertet werden, wenn sie nach diesen Vorschriften durchgeführt worden ist; dies gilt aber nicht für eine Beweisaufnahme nach den §§ 77a und 78 Abs. 1.",
+      "quelle": "https://www.gesetze-im-internet.de/owig_1968/__81.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767106642167",
+      "gesetz": "OWiG",
+      "nummer": "§ 82",
+      "titel": "§ 82 Bußgelderkenntnis im Strafverfahren",
+      "gesetzestext": "(1) Im Strafverfahren beurteilt das Gericht die in der Anklage bezeichnete Tat zugleich unter dem rechtlichen Gesichtspunkt einer Ordnungswidrigkeit.\n(2) Läßt das Gericht die Anklage zur Hauptverhandlung nur unter dem rechtlichen Gesichtspunkt einer Ordnungswidrigkeit zu, so sind in dem weiteren Verfahren die besonderen Vorschriften dieses Gesetzes anzuwenden.",
+      "quelle": "https://www.gesetze-im-internet.de/owig_1968/__82.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767106656268",
+      "gesetz": "OWiG",
+      "nummer": "§ 83",
+      "titel": "§ 83 Verfahren bei Ordnungswidrigkeiten und Straftaten",
+      "gesetzestext": "(1) Hat das Verfahren Ordnungswidrigkeiten und Straftaten zum Gegenstand und werden einzelne Taten nur als Ordnungswidrigkeiten verfolgt, so gelten für das Verfahren wegen dieser Taten auch § 46 Abs. 3, 4, 5 Satz 2 und Abs. 7, die §§ 47, 49, 55, 76 bis 78, 79 Abs. 1 bis 3 sowie § 80.\n(2) Wird in den Fällen des Absatzes 1 gegen das Urteil, soweit es nur Ordnungswidrigkeiten betrifft, Rechtsbeschwerde und im übrigen Berufung eingelegt, so wird eine rechtzeitig und in der vorgeschriebenen Form eingelegte Rechtsbeschwerde, solange die Berufung nicht zurückgenommen oder als unzulässig verworfen ist, als Berufung behandelt. Die Beschwerdeanträge und deren Begründung sind gleichwohl in der vorgeschriebenen Form anzubringen und dem Gegner zuzustellen (§§ 344 bis 347 der Strafprozeßordnung); einer Zulassung nach § 79 Abs. 1 Satz 2 bedarf es jedoch nicht. Gegen das Berufungsurteil ist die Rechtsbeschwerde nach § 79 Abs. 1 und 2 sowie § 80 zulässig.\n(3) Hebt das Beschwerdegericht das Urteil auf, soweit es nur Ordnungswidrigkeiten betrifft, so kann es in der Sache selbst entscheiden.",
+      "quelle": "https://www.gesetze-im-internet.de/owig_1968/__83.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767106669735",
+      "gesetz": "OWiG",
+      "nummer": "§ 84",
+      "titel": "§ 84 Wirkung der Rechtskraft",
+      "gesetzestext": "(1) Ist der Bußgeldbescheid rechtskräftig geworden oder hat das Gericht über die Tat als Ordnungswidrigkeit oder als Straftat rechtskräftig entschieden, so kann dieselbe Tat nicht mehr als Ordnungswidrigkeit verfolgt werden.\n(2) Das rechtskräftige Urteil über die Tat als Ordnungswidrigkeit steht auch ihrer Verfolgung als Straftat entgegen. Dem rechtskräftigen Urteil stehen der Beschluß nach § 72 und der Beschluß des Beschwerdegerichts über die Tat als Ordnungswidrigkeit gleich.",
+      "quelle": "https://www.gesetze-im-internet.de/owig_1968/__84.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767106684141",
+      "gesetz": "OWiG",
+      "nummer": "§ 85",
+      "titel": "§ 85 Wiederaufnahme des Verfahrens",
+      "gesetzestext": "(1) Für die Wiederaufnahme eines durch rechtskräftige Bußgeldentscheidung abgeschlossenen Verfahrens gelten die §§ 359 bis 373a der Strafprozeßordnung entsprechend, soweit die nachstehenden Vorschriften nichts anderes bestimmen.\n(2) Die Wiederaufnahme des Verfahrens zugunsten des Betroffenen, die auf neue Tatsachen oder Beweismittel gestützt wird (§ 359 Nr. 5 der Strafprozeßordnung), ist nicht zulässig, wenn\n1.\ngegen den Betroffenen lediglich eine Geldbuße bis zu zweihundertfünfzig Euro festgesetzt ist oder\n2.\nseit Rechtskraft der Bußgeldentscheidung drei Jahre verstrichen sind.\nSatz 1 Nr. 1 gilt entsprechend, wenn eine Nebenfolge vermögensrechtlicher Art angeordnet ist, deren Wert zweihundertfünfzig Euro nicht übersteigt.\n(3) Die Wiederaufnahme des Verfahrens zuungunsten des Betroffenen ist unter den Voraussetzungen des § 362 der Strafprozeßordnung nur zu dem Zweck zulässig, die Verurteilung nach einem Strafgesetz herbeizuführen. Zu diesem Zweck ist sie auch zulässig, wenn neue Tatsachen oder Beweismittel beigebracht sind, die allein oder in Verbindung mit den früher erhobenen Beweisen geeignet sind, die Verurteilung des Betroffenen wegen eines Verbrechens zu begründen.\n(4) Im Wiederaufnahmeverfahren gegen den Bußgeldbescheid entscheidet das nach § 68 zuständige Gericht. Wird ein solches Wiederaufnahmeverfahren von dem Betroffenen beantragt oder werden der Verwaltungsbehörde Umstände bekannt, die eine Wiederaufnahme des Verfahrens zulassen, so übersendet sie die Akten der Staatsanwaltschaft. § 69 Abs. 4 Satz 1 gilt entsprechend.",
+      "quelle": "https://www.gesetze-im-internet.de/owig_1968/__85.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767106705262",
+      "gesetz": "OWiG",
+      "nummer": "§ 86",
+      "titel": "§ 86 Aufhebung des Bußgeldbescheides im Strafverfahren",
+      "gesetzestext": "(1) Ist gegen den Betroffenen ein Bußgeldbescheid ergangen und wird er später wegen derselben Handlung in einem Strafverfahren verurteilt, so wird der Bußgeldbescheid insoweit aufgehoben. Dasselbe gilt, wenn es im Strafverfahren nicht zu einer Verurteilung kommt, jedoch die Feststellungen, die das Gericht in der abschließenden Entscheidung trifft, dem Bußgeldbescheid entgegenstehen.\n(2) Geldbeträge, die auf Grund des aufgehobenen Bußgeldbescheides gezahlt oder beigetrieben worden sind, werden zunächst auf eine erkannte Geldstrafe, dann auf angeordnete Nebenfolgen, die zu einer Geldzahlung verpflichten, und zuletzt auf die Kosten des Strafverfahrens angerechnet.\n(3) Die Entscheidungen nach den Absätzen 1 und 2 werden in dem Urteil oder in der sonstigen abschließenden Entscheidung getroffen.",
+      "quelle": "https://www.gesetze-im-internet.de/owig_1968/__86.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767106719209",
+      "gesetz": "OWiG",
+      "nummer": "§ 87",
+      "titel": "§ 87 Anordnung der Einziehung",
+      "gesetzestext": "(1) Hat die Verwaltungsbehörde im Bußgeldverfahren über die Einziehung eines Gegenstandes zu entscheiden, so ist sie auch für die Anordnung der Verfahrensbeteiligung, die Beiordnung eines Rechtsanwalts oder einer anderen Person, die als Verteidiger bestellt werden darf, und die Entscheidung über die Entschädigung zuständig (§§ 424, 425, 428 Absatz 2, § 430 Absatz 3, § 438 Absatz 1 und 2 der Strafprozessordnung); § 60 Satz 2 gilt entsprechend.\n(2) Vom Erlaß des Bußgeldbescheides an hat der Einziehungsbeteiligte, soweit das Gesetz nichts anderes bestimmt, die Befugnisse, die einem Betroffenen zustehen. Ihm wird der Bußgeldbescheid, in dem die Einziehung angeordnet wird, zugestellt. Zugleich wird er darauf hingewiesen, daß über die Einziehung auch ihm gegenüber entschieden ist.\n(3) Im selbständigen Verfahren wird die Einziehung in einem selbständigen Einziehungsbescheid angeordnet; § 66 Abs. 1, Abs. 2 Nr. 1 Buchstabe a und Abs 3 gilt entsprechend. Der Einziehungsbescheid steht einem Bußgeldbescheid gleich. Zuständig ist die Verwaltungsbehörde, die im Falle der Verfolgung einer bestimmten Person zuständig wäre; örtlich zuständig ist auch die Verwaltungsbehörde, in deren Bezirk der Gegenstand sichergestellt worden ist.\n(4) Das Nachverfahren (§ 433 der Strafprozessordnung) gegen einen Bußgeldbescheid ist bei der Verwaltungsbehörde zu beantragen, welche die Einziehung angeordnet hat. Die Entscheidung trifft das nach § 68 zuständige Gericht. Die Verwaltungsbehörde übersendet die Akten der Staatsanwaltschaft, die sie dem Gericht vorlegt; § 69 Abs. 4 Satz 1 gilt entsprechend.\n(5) Die Entscheidung des Gerichts über die Einziehung eines Gegenstandes, dessen Wert zweihundertfünfzig Euro nicht übersteigt, ist nicht anfechtbar.\n(6) Absatz 2 Satz 3, Absatz 3 Satz 3 zweiter Halbsatz und Absatz 4 gelten nicht im Verfahren bei Anordnung der Einziehung nach § 29a.",
+      "quelle": "https://www.gesetze-im-internet.de/owig_1968/__87.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767106733968",
+      "gesetz": "OWiG",
+      "nummer": "§ 88",
+      "titel": "§ 88 Festsetzung der Geldbuße gegen juristische Personen und Personenvereinigungen",
+      "gesetzestext": "(1) Hat die Verwaltungsbehörde im Bußgeldverfahren über die Festsetzung einer Geldbuße gegen eine juristische Person oder eine Personenvereinigung zu entscheiden (§ 30), so ist sie auch für die Anordnung der Verfahrensbeteiligung und die Beiordnung eines Rechtsanwalts oder einer anderen Person, die als Verteidiger bestellt werden darf, zuständig (§ 444 Abs. 1, § 428 Absatz 2 der Strafprozeßordnung); § 60 Satz 2 gilt entsprechend.\n(2) Im selbständigen Verfahren setzt die Verwaltungsbehörde die Geldbuße in einem selbständigen Bußgeldbescheid fest. Zuständig ist die Verwaltungsbehörde, die im Falle der Verfolgung einer bestimmten Person zuständig wäre; örtlich zuständig ist auch die Verwaltungsbehörde, in deren Bezirk die juristische Person oder Personenvereinigung ihren Sitz oder eine Zweigniederlassung hat.\n(3) § 87 Abs. 2 Satz 1 und 2 sowie Abs. 5 gilt entsprechend.",
+      "quelle": "https://www.gesetze-im-internet.de/owig_1968/__88.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767106749063",
+      "gesetz": "OWiG",
+      "nummer": "§ 89",
+      "titel": "§ 89 Vollstreckbarkeit der Bußgeldentscheidungen",
+      "gesetzestext": "Bußgeldentscheidungen sind vollstreckbar, wenn sie rechtskräftig geworden sind.",
+      "quelle": "https://www.gesetze-im-internet.de/owig_1968/__89.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767106766344",
+      "gesetz": "OWiG",
+      "nummer": "§ 90",
+      "titel": "§ 90 Vollstreckung des Bußgeldbescheides",
+      "gesetzestext": "(1) Der Bußgeldbescheid wird, soweit das Gesetz nichts anderes bestimmt, nach den Vorschriften des Verwaltungs-Vollstreckungsgesetzes vom 27. April 1953 (BGBl. I S. 157) in der jeweils geltenden Fassung vollstreckt, wenn eine Verwaltungsbehörde des Bundes den Bußgeldbescheid erlassen hat, sonst nach den entsprechenden landesrechtlichen Vorschriften.\n(2) Die Geldbußen fließen, soweit das Gesetz nichts anderes bestimmt, in die Bundeskasse, wenn eine Verwaltungsbehörde des Bundes den Bußgeldbescheid erlassen hat, sonst in die Landeskasse. Satz 1 gilt für Nebenfolgen, die zu einer Geldzahlung verpflichten, entsprechend.\n(3) Ist die Einziehung eines Gegenstandes oder Unbrauchbarmachung einer Sache angeordnet worden, so wird die Anordnung dadurch vollstreckt, daß die Sache dem Betroffenen oder dem Einziehungsbeteiligten weggenommen wird. Wird die Sache bei diesen Personen nicht vorgefunden, so haben sie auf Antrag der Verwaltungsbehörde bei dem Amtsgericht eine eidesstattliche Versicherung über den Verbleib der Sache abzugeben. § 883 Abs. 2 und 3 der Zivilprozeßordnung gilt entsprechend.\n(4) Absatz 1 gilt für die Vollstreckung eines von der Verwaltungsbehörde festgesetzten Ordnungsgeldes entsprechend.",
+      "quelle": "https://www.gesetze-im-internet.de/owig_1968/__90.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767106781066",
+      "gesetz": "OWiG",
+      "nummer": "§ 91",
+      "titel": "§ 91 Vollstreckung der gerichtlichen Bußgeldentscheidung",
+      "gesetzestext": "Für die Vollstreckung der gerichtlichen Bußgeldentscheidung gelten § 451 Abs. 1 und 2, die §§ 459 und 459g Abs. 1 sowie Abs. 2 in Verbindung mit § 459 der Strafprozeßordnung, im Verfahren gegen Jugendliche und Heranwachsende auch § 82 Abs. 1, § 83 Abs. 2 sowie die §§ 84 und 85 Abs. 5 des Jugendgerichtsgesetzes sinngemäß.",
+      "quelle": "https://www.gesetze-im-internet.de/owig_1968/__91.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767106795700",
+      "gesetz": "OWiG",
+      "nummer": "§ 92",
+      "titel": "§ 92 Vollstreckungsbehörde",
+      "gesetzestext": "Vollstreckungsbehörde im Sinne der nachfolgenden Vorschriften dieses Abschnitts ist in den Fällen des § 90 die Verwaltungsbehörde, die den Bußgeldbescheid erlassen hat, sonst die Stelle, der nach § 91 die Vollstreckung obliegt.",
+      "quelle": "https://www.gesetze-im-internet.de/owig_1968/__92.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767106810447",
+      "gesetz": "OWiG",
+      "nummer": "§ 93",
+      "titel": "§ 93 Zahlungserleichterungen",
+      "gesetzestext": "(1) Nach Rechtskraft der Bußgeldentscheidung entscheidet über die Bewilligung von Zahlungserleichterungen (§ 18) die Vollstreckungsbehörde.\n(2) Die Vollstreckungsbehörde kann eine Entscheidung über Zahlungserleichterungen nach Absatz 1 oder nach § 18 nachträglich ändern oder aufheben. Dabei darf sie von einer vorausgegangenen Entscheidung zum Nachteil des Betroffenen nur auf Grund neuer Tatsachen oder Beweismittel abweichen.\n(3) Für Entscheidungen über Zahlungserleichterungen gilt § 66 Abs. 2 Nr. 2 und 3 sinngemäß. Die Entscheidung erstreckt sich auch auf die Kosten des Verfahrens; sie kann auch allein hinsichtlich der Kosten getroffen werden.\n(4) Entfällt die Vergünstigung nach § 18 Satz 2, die Geldbuße in bestimmten Teilbeträgen zu zahlen, so wird dies in den Akten vermerkt. Die Vollstreckungsbehörde kann dem Betroffenen erneut eine Zahlungserleichterung bewilligen.",
+      "quelle": "https://www.gesetze-im-internet.de/owig_1968/__93.html",
+      "praxisbeispiele": []
     }
   ]
 }
