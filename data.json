@@ -408,6 +408,78 @@
       "gesetzestext": "(Fundstelle: BGBl. I 1965, 221;\nbzgl. der einzelnen Änderungen vgl. Fußnote)\nMindestversicherungssummen\n1.\nDie Mindesthöhe der Versicherungssumme beträgt bei Kraftfahrzeugen einschließlich der Anhänger je Schadensfall\na)\nfür Personenschäden siebeneinhalb Millionen Euro,\nb)\nfür Sachschäden 1 300 000 Euro,\nc)\nfür die weder mittelbar noch unmittelbar mit einem Personen- oder Sachschaden zusammenhängenden Vermögensschäden (reine Vermögensschäden) 50 000 Euro.\n2.\nBei Kraftfahrzeugen, die der Beförderung von Personen dienen und mehr als neun Plätze (ohne den Fahrersitz) aufweisen, erhöhen sich diese Beträge für das Kraftfahrzeug unter Ausschluss der Anhänger\na)\nfür den 10. und jeden weiteren Platz um\naa)\t50 000 Euro\tfür Personenschäden,\nbb)\t500 Euro\tfür reine Vermögensschäden,\nb)\nvom 81. Platz ab für jeden weiteren Platz um\naa)\t25 000 Euro\tfür Personenschäden,\nbb)\t250 Euro\tfür reine Vermögensschäden.\nDies gilt nicht für Kraftomnibusse, die ausschließlich zu Lehr- und Prüfungszwecken gebraucht werden.\n3.\nBei Anhängern entspricht die Mindesthöhe der Versicherungssumme für Schäden, die nicht mit dem Betrieb des Kraftfahrzeugs im Sinne des § 7 des Straßenverkehrsgesetzes im Zusammenhang stehen, und für die den Insassen des Anhängers zugefügten Schäden den in Nummer 1, bei Personenanhängern mit mehr als neun Plätzen den in Nummern 1 und 2 genannten Beträgen.\n4.\nZu welcher dieser Gruppen das Fahrzeug gehört, richtet sich nach der Eintragung im Kraftfahrzeug- oder Anhängerbrief.",
       "quelle": "https://www.gesetze-im-internet.de/pflvg/anlage.html",
       "praxisbeispiele": []
+    },
+    {
+      "id": "1767092532474",
+      "gesetz": "BGB",
+      "nummer": "§ 1",
+      "titel": "§ 1 Beginn der Rechtsfähigkeit",
+      "gesetzestext": "Die Rechtsfähigkeit des Menschen beginnt mit der Vollendung der Geburt.",
+      "quelle": "https://www.gesetze-im-internet.de/bgb/__1.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767092580014",
+      "gesetz": "BGB",
+      "nummer": "§ 2",
+      "titel": "§ 2 Eintritt der Volljährigkeit",
+      "gesetzestext": "Die Volljährigkeit tritt mit der Vollendung des 18. Lebensjahres ein.",
+      "quelle": "https://www.gesetze-im-internet.de/bgb/__2.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767092641238",
+      "gesetz": "BGB",
+      "nummer": "§ 249",
+      "titel": "§ 249 Art und Umfang des Schadensersatzes",
+      "gesetzestext": "(1) Wer zum Schadensersatz verpflichtet ist, hat den Zustand herzustellen, der bestehen würde, wenn der zum Ersatz verpflichtende Umstand nicht eingetreten wäre.\n(2) Ist wegen Verletzung einer Person oder wegen Beschädigung einer Sache Schadensersatz zu leisten, so kann der Gläubiger statt der Herstellung den dazu erforderlichen Geldbetrag verlangen. Bei der Beschädigung einer Sache schließt der nach Satz 1 erforderliche Geldbetrag die Umsatzsteuer nur mit ein, wenn und soweit sie tatsächlich angefallen ist.",
+      "quelle": "https://www.gesetze-im-internet.de/bgb/__249.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767092654836",
+      "gesetz": "BGB",
+      "nummer": "§ 251",
+      "titel": "§ 251 Schadensersatz in Geld ohne Fristsetzung",
+      "gesetzestext": "(1) Soweit die Herstellung nicht möglich oder zur Entschädigung des Gläubigers nicht genügend ist, hat der Ersatzpflichtige den Gläubiger in Geld zu entschädigen.\n(2) Der Ersatzpflichtige kann den Gläubiger in Geld entschädigen, wenn die Herstellung nur mit unverhältnismäßigen Aufwendungen möglich ist. Die aus der Heilbehandlung eines verletzten Tieres entstandenen Aufwendungen sind nicht bereits dann unverhältnismäßig, wenn sie dessen Wert erheblich übersteigen.",
+      "quelle": "https://www.gesetze-im-internet.de/bgb/__251.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767092676776",
+      "gesetz": "BGB",
+      "nummer": "§ 253",
+      "titel": "§ 253 Immaterieller Schaden",
+      "gesetzestext": "(1) Wegen eines Schadens, der nicht Vermögensschaden ist, kann Entschädigung in Geld nur in den durch das Gesetz bestimmten Fällen gefordert werden.\n(2) Ist wegen einer Verletzung des Körpers, der Gesundheit, der Freiheit oder der sexuellen Selbstbestimmung Schadensersatz zu leisten, kann auch wegen des Schadens, der nicht Vermögensschaden ist, eine billige Entschädigung in Geld gefordert werden.",
+      "quelle": "https://www.gesetze-im-internet.de/bgb/__253.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767092693062",
+      "gesetz": "PflVG",
+      "nummer": "§ 254",
+      "titel": "§ 254 Mitverschulden",
+      "gesetzestext": "(1) Hat bei der Entstehung des Schadens ein Verschulden des Beschädigten mitgewirkt, so hängt die Verpflichtung zum Ersatz sowie der Umfang des zu leistenden Ersatzes von den Umständen, insbesondere davon ab, inwieweit der Schaden vorwiegend von dem einen oder dem anderen Teil verursacht worden ist.\n(2) Dies gilt auch dann, wenn sich das Verschulden des Beschädigten darauf beschränkt, dass er unterlassen hat, den Schuldner auf die Gefahr eines ungewöhnlich hohen Schadens aufmerksam zu machen, die der Schuldner weder kannte noch kennen musste, oder dass er unterlassen hat, den Schaden abzuwenden oder zu mindern. Die Vorschrift des § 278 findet entsprechende Anwendung.",
+      "quelle": "https://www.gesetze-im-internet.de/bgb/__254.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767092722157",
+      "gesetz": "BGB",
+      "nummer": "§ 823",
+      "titel": "§ 823 Schadensersatzpflicht",
+      "gesetzestext": "(1) Wer vorsätzlich oder fahrlässig das Leben, den Körper, die Gesundheit, die Freiheit, das Eigentum oder ein sonstiges Recht eines anderen widerrechtlich verletzt, ist dem anderen zum Ersatz des daraus entstehenden Schadens verpflichtet.\n(2) Die gleiche Verpflichtung trifft denjenigen, welcher gegen ein den Schutz eines anderen bezweckendes Gesetz verstößt. Ist nach dem Inhalt des Gesetzes ein Verstoß gegen dieses auch ohne Verschulden möglich, so tritt die Ersatzpflicht nur im Falle des Verschuldens ein.",
+      "quelle": "https://www.gesetze-im-internet.de/bgb/__823.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767092744267",
+      "gesetz": "BGB",
+      "nummer": "§ 827",
+      "titel": "§ 827 Ausschluss und Minderung der Verantwortlichkeit",
+      "gesetzestext": "Wer im Zustand der Bewusstlosigkeit oder in einem die freie Willensbestimmung ausschließenden Zustand krankhafter Störung der Geistestätigkeit einem anderen Schaden zufügt, ist für den Schaden nicht verantwortlich. Hat er sich durch geistige Getränke oder ähnliche Mittel in einen vorübergehenden Zustand dieser Art versetzt, so ist er für einen Schaden, den er in diesem Zustand widerrechtlich verursacht, in gleicher Weise verantwortlich, wie wenn ihm Fahrlässigkeit zur Last fiele; die Verantwortlichkeit tritt nicht ein, wenn er ohne Verschulden in den Zustand geraten ist.",
+      "quelle": "https://www.gesetze-im-internet.de/bgb/__827.html",
+      "praxisbeispiele": []
     }
   ]
 }
